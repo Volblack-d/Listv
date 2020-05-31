@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 type="playlist" tvg-logo="http://bit.ly/2Mz7meP" group-title="FILMES" ,Lançamentos A
+https://raw.githubusercontent.com/Volblack-d/Listv/master/Lancamento%20A
+
+#EXTINF:-1 type="playlist" tvg-logo="http://bit.ly/2Mz7meP" group-title="FILMES" ,Lançamentos B
+https://raw.githubusercontent.com/Volblack-d/Listv/master/Lancamento%20B
+
+#EXTINF:-1 type="playlist" tvg-logo="http://bit.ly/2Mz7meP" group-title="FILMES" ,Lançamentos C
+https://raw.githubusercontent.com/Volblack-d/Listv/master/Lancamento%20C
