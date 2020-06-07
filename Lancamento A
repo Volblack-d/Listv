@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="REI DOS LADRÕES" tvg-logo="https://is.gd/Vt3qDn" type="video" group-title="LANÇAMENTOS A",REI DOS LADRÕES
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Rei%20dos%20Ladroes%20(2018).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="THE LAST DAY OF AMERICAN CRIME" tvg-logo="https://is.gd/wwf79m" type="video" group-title="LANÇAMENTOS A",THE LAST DAY OF AMERICAN CRIME
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/The%20Last%20Days%20of%20American%20Crime%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="LEALDADE A PROVA" tvg-logo="https://is.gd/cBnpjP" type="video" group-title="LANÇAMENTOS A",LEALDADE A PROVA
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Lealdade%20a%20Prova%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ARKANSAS (2020)" tvg-logo="https://is.gd/sXNSyA" type="video" group-title="LANÇAMENTOS A",ARKANSAS (2020)
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Arkansas.2020.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="A CRIANÇA ZUMBI" tvg-logo="https://is.gd/CKet7v" type="video" group-title="LANÇAMENTOS A",A CRIANÇA ZUMBI
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/A%20CRIAN%C3%87A%20ZUMBI%20(Zombi%20Child%202019).mkv
 
@@ -310,8 +322,3 @@ https://storage.googleapis.com/lancamento/Um%20Espi%C3%A3o%20Animal.2019.1080p-d
 
 #EXTINF:-1 tvg-id="" tvg-name="DOIS IRMÃOS UMA JORNADA FANTÁSTICA" tvg-logo="https://is.gd/HHBBK3" type="video" group-title="LANÇAMENTOS A",DOIS IRMÃOS UMA JORNADA FANTÁSTICA
 https://storage.googleapis.com/lancamento/Dois%20Irm%C3%A3os%20Uma%20Jornada%20Fant%C3%A1stica.2020.1080p-dual-por-cinemaqualidade.is.mkv
-
-
-
-
-
