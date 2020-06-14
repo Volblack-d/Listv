@@ -1,9 +1,42 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="211 O GRANDE ASSALTO" tvg-logo="https://is.gd/hjKNLT" type="video" group-title="AÇÃO",211 O GRANDE ASSALTO
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/211%20O%20Grande%20Assalto%20(2018).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="A ORIGEM DO DRAGÃO" tvg-logo="https://is.gd/Eb2i4d" type="video" group-title="AÇÃO",A ORIGEM DO DRAGÃO
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/A%20Origem%20do%20Drag%C3%A3o%20(2018).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="ALVO TRIPLO" tvg-logo="https://is.gd/21vcMp" type="video" group-title="AÇÃO",ALVO TRIPLO
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Alvo%20Triplo%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ARRANHA CÉU CORAGEM SEM LIMITES" tvg-logo="https://is.gd/hfRhIg" type="video" group-title="AÇÃO",ARRANHA CÉU CORAGEM SEM LIMITE
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Arranha-C%C3%A9u%20Coragem%20Sem%20Limites%20(2018).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ASSASSINOS MULTIPLOS" tvg-logo="https://is.gd/UNQ54k" type="video" group-title="AÇÃO",ASSASSINOS MULTIPLOS
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Assassinos%20M%C3%BAltiplos%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ATÔMICA" tvg-logo="https://is.gd/sYBXcz" type="video" group-title="AÇÃO",ATÔMICA
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/At%C3%B4mica%20(2017).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="ATÔMICA AMEAÇA OCULTA" tvg-logo="https://is.gd/1vkal6" type="video" group-title="AÇÃO",ATÔMICA AMEAÇA OCULTA
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/At%C3%B4mica%20Amea%C3%A7a%20Oculta%20(2017).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="BAYWATCH S.O.S MALIBU" tvg-logo="https://is.gd/ImAnYg" type="video" group-title="AÇÃO",BAYWATCH S.O.S MALIBU
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Baywatch%20S.O.S.%20Malibu%20(2017).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="BLADE RUNNER 2019" tvg-logo="https://is.gd/ImAnYg" type="video" group-title="AÇÃO",BLADE RUNNER 2019
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Blade%20Runner%202049%20(2017).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="BRIGHT" tvg-logo="https://is.gd/D0xHRL" type="video" group-title="AÇÃO",BRIGHT
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Bright%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CAÇADA BRUTAL" tvg-logo="https://is.gd/hzHfRC" type="video" group-title="AÇÃO",CONFRONTO NO PAVILHÃO 99
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Ca%C3%A7ada%20Brutal%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="CHUVA NEGRA" tvg-logo="https://is.gd/kY4F1M" type="video" group-title="AÇÃO",CHUVA NEGRA
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/CHUVA%20NEGRA%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CONFRONTO NO PAVILHÃO 99" tvg-logo="https://is.gd/z4wwfD" type="video" group-title="AÇÃO",CONFRONTO NO PAVILHÃO 99
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Confronto%20no%20Pavilh%C3%A3o%2099%20(2017).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="COMANDO DELTA" tvg-logo="https://is.gd/6lQh9g" type="video" group-title="AÇÃO",COMANDO DELTA
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/COMANDO%20DELTA%201.mkv
@@ -19,6 +52,9 @@ https://storage.googleapis.com/volblack/A%C3%87%C3%83O/CREED%20-%20NASCIDO%20PAR
 
 #EXTINF:-1 tvg-id="" tvg-name="CYBORG O DRAGÃO DO FUTURO" tvg-logo="https://is.gd/sqQJRm" type="video" group-title="AÇÃO",CYBORG O DRAGÃO DO FUTURO
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/CYBORG%20-%20O%20DRAG%C3%83O%20DO%20FUTURO%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="COSPIRAÇÃO TERRORISTA" tvg-logo="https://is.gd/xg5YZg" type="video" group-title="AÇÃO",COSPIRAÇÃO TERRORISTA
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Conspira%C3%A7%C3%A3o%20Terrorista%20(2017).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="DIA DE TREINAMENTO" tvg-logo="https://is.gd/fjTGuq" type="video" group-title="AÇÃO",DIA DE TREINAMENTO
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/DIA%20DE%20TREINAMENTO%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -38,6 +74,18 @@ https://storage.googleapis.com/volblack/A%C3%87%C3%83O/DURO%20DE%20MATAR%204%20-
 #EXTINF:-1 tvg-id="" tvg-name="DURO DE MATAR 5" tvg-logo="https://is.gd/Cuzg7M" type="video" group-title="AÇÃO",DURO DE MATAR 5
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/DURO%20DE%20MATAR%205%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="DUPLA EXPLOSIVA" tvg-logo="https://is.gd/RLWvEn" type="video" group-title="AÇÃO",DUPLA EXPLOSIVA
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Dupla%20Explosiva%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="EM BUSCA DE VINGANÇA" tvg-logo="https://is.gd/h2Fhix" type="video" group-title="AÇÃO",EM BUSCA DE VINGANÇA
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Em%20Busca%20de%20Vingan%C3%A7a%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="KINGSMAN O CÍRCULO DOURADO" tvg-logo="https://is.gd/S7tX2K" type="video" group-title="AÇÃO",KINGSMAN O CÍRCULO DOURADO
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Kingsman%20O%20C%C3%ADrculo%20Dourado%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="KUNG FU YOGA" tvg-logo="https://is.gd/f2yGRG" type="video" group-title="AÇÃO",KUNG FU YOGA
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Kung%20Fu%20Yoga%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="FALCÃO O CAMPEÃO DOS CAMPEÕES" tvg-logo="https://is.gd/zEdhAe" type="video" group-title="AÇÃO",FALCÃO O CAMPEÃO DOS CAMPEÕES
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/FALC%C3%83O%20-%20O%20CAMPE%C3%83O%20DOS%20CAMPE%C3%95ES%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
@@ -49,6 +97,12 @@ https://storage.googleapis.com/volblack/A%C3%87%C3%83O/HERCULES%20-%20DUBLADO%20
 
 #EXTINF:-1 tvg-id="" tvg-name="MAD MAX A ESTRADA DA FÚRIA" tvg-logo="https://is.gd/zxJKyL" type="video" group-title="AÇÃO",MAD MAX A ESTRADA DA FÚRIA
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/MAD%20MAX%20-%202015%20-%20ESTRADA%20EM%20F%C3%9ARIA%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="NA MIRA DO ATIRADOR" tvg-logo="https://is.gd/mHxqL9" type="video" group-title="AÇÃO",NA MIRA DO ATIRADOR
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Na%20Mira%20do%20Atirador%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO AVALANCHE" tvg-logo="https://is.gd/uD2nh9" type="video" group-title="AÇÃO",OPERAÇÃO AVALANCHE
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Opera%C3%A7%C3%A3o%20Avalanche%20(2016).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="O GRANDE DRAGÃO BRANCO" tvg-logo="https://is.gd/Wh9KO1" type="video" group-title="AÇÃO",O GRANDE DRAGÃO BRANCO
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/O%20GRANDE%20DRAG%C3%83O%20BRANCO%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -64,6 +118,9 @@ https://storage.googleapis.com/volblack/A%C3%87%C3%83O/RAMBO%20III-DUBLADO%20-%2
 
 #EXTINF:-1 tvg-id="" tvg-name="RAMBO IV" tvg-logo="https://is.gd/qRb2tF" type="video" group-title="AÇÃO",RAMBO IV
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/RAMBO%20IV%20-%20DUBLADO%20-%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="REVOLT" tvg-logo="https://is.gd/DHYtCb" type="video" group-title="AÇÃO",REVOLT
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Revolt%20(2017).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY I O LUTADOR" tvg-logo="https://is.gd/sd6tkv" type="video" group-title="AÇÃO",ROCKY I O LUTADOR
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/ROCKY%20I%20-%20O%20LUTADOR%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -82,6 +139,9 @@ https://storage.googleapis.com/volblack/A%C3%87%C3%83O/ROCKY%20V%20-%20DUBLADO%2
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY VI" tvg-logo="https://is.gd/J8G5Cw" type="video" group-title="AÇÃO",ROCKY VI
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/ROCKY%20VI%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTA DE FUGA 2" tvg-logo="https://is.gd/lwhEzo" type="video" group-title="AÇÃO",ROTA DE FUGA 2
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Rota%20de%20Fuga%202%20Hades%20(2018).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="STALLONE COBRA" tvg-logo="https://is.gd/artqWH" type="video" group-title="AÇÃO",STALLONE COBRA
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/STALLONE%20COBRA%20-%20DUBLADO%20-%20FULL%20HD.mkv
