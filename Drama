@@ -1,9 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="10 COISAS QUE DEVERIAMOS FAZER ANTES DE NOS SEPARAR" tvg-logo="https://is.gd/4xDMCz" type="video" group-title="DRAMA",10 COISAS QUE DEVERIAMOS FAZER ANTES DE NOS SEPARAR
+https://storage.googleapis.com/volblack-iptv/DRAMA/10%20Coisas%20que%20Deveriamos%20Fazer%20Antes%20de%20nos%20Separar%20(2020).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="A CAMINHO DA FÉ" tvg-logo="https://is.gd/EdXTUY" type="video" group-title="DRAMA",A CAMINHO DA FÉ
 https://storage.googleapis.com/volblack-iptv/DRAMA/A%20Caminho%20da%20f%C3%A9%20(2018).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="A DEUSA DA VINGANÇA" tvg-logo="https://is.gd/85fYkJ" type="video" group-title="DRAMA",A DEUSA DA VINGANÇA
 https://storage.googleapis.com/volblack-iptv/DRAMA/A%20Deusa%20da%20Vingan%C3%A7a%20(2016).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A MENINA QUE ROUBAVA LIVROS" tvg-logo="https://is.gd/BjGxFh" type="video" group-title="DRAMA",A MENINA QUE ROUBAVA LIVROS
+https://storage.googleapis.com/volblack-iptv/DRAMA/A%20Menina%20que%20Roubava%20Livros%20(2013).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A PELEGRINAÇÃO" tvg-logo="https://is.gd/3tFjq3" type="video" group-title="DRAMA",A PELEGRINAÇÃO
+https://storage.googleapis.com/volblack-iptv/DRAMA/A%20Peregrina%C3%A7%C3%A3o%20(2017).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="A RAINHA DA ESPANHA" tvg-logo="https://is.gd/QBAmd0" type="video" group-title="DRAMA",A RAINHA DA ESPANHA
 https://storage.googleapis.com/volblack-iptv/DRAMA/A%20Rainha%20de%20Espanha%20(2016).mkv
@@ -19,6 +28,9 @@ https://storage.googleapis.com/volblack-iptv/DRAMA/Atraves.do.Fogo.2018.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="BACARAU" tvg-logo="https://is.gd/1V06eb" type="video" group-title="DRAMA",BACARAU
 https://storage.googleapis.com/volblack-iptv/DRAMA/BACARAU%20-%20NACIONAL%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="DONNYBROOK - LUTA PELA REDENÇÃO" tvg-logo="https://is.gd/1kdXmS" type="video" group-title="DRAMA",DONNYBROOK - LUTA PELA REDENÇÃO
+https://storage.googleapis.com/volblack-iptv/DRAMA/Donnybrook%20Luta%20pela%20Reden%C3%A7%C3%A3o%20(2019).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="DO OUTRO LADO DA FRONTEIRA" tvg-logo="https://is.gd/iCEJdK" type="video" group-title="DRAMA",DO OUTRO LADO DA FRONTEIRA
 https://storage.googleapis.com/volblack-iptv/DRAMA/Do%20Outro%20Lado%20da%20Fronteira%20(2016).mkv
@@ -38,11 +50,20 @@ https://storage.googleapis.com/volblack-iptv/DRAMA/Jo%C3%A3o%2C%20O%20Maestro%20
 EXTINF:-1 tvg-id="" tvg-name="MARSHALL IGUALDADE E JUSTIÇA" tvg-logo="https://is.gd/yoOQeZ" type="video" group-title="DRAMA",MARSHALL IGUALDADE E JUSTIÇA
 https://storage.googleapis.com/volblack-iptv/DRAMA/Marshall%20Igualdade%20e%20Justi%C3%A7a%20(2017).mkv
 
+EXTINF:-1 tvg-id="" tvg-name="MEU PÉ DE LARANJA LIMA" tvg-logo="https://is.gd/UWVrdD" type="video" group-title="DRAMA",MEU PÉ DE LARANJA LIMA
+https://storage.googleapis.com/volblack-iptv/DRAMA/Meu%20P%C3%A9%20de%20Laranja%20Lima%20(2013).mkv
+
 EXTINF:-1 tvg-id="" tvg-name="MÃE" tvg-logo="https://is.gd/7i2FyH" type="video" group-title="DRAMA",MÃE
 https://storage.googleapis.com/volblack-iptv/DRAMA/M%C3%A3e!%20(2017).mkv
 
 EXTINF:-1 tvg-id="" tvg-name="GUARDIÃO INVISÍVEL" tvg-logo="https://is.gd/ZGQkmg" type="video" group-title="DRAMA",GUARDIÃO INVISÍVEL
 https://storage.googleapis.com/volblack-iptv/DRAMA/O%20Guardi%C3%A3o%20Invis%C3%ADvel%20(2017).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="O CHAMADO DE DEUS" tvg-logo="https://is.gd/5WgFIa" type="video" group-title="DRAMA",O CHAMADO DE DEUS
+https://storage.googleapis.com/volblack-iptv/DRAMA/O%20Chamado%20de%20Deus%20(2012).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="O MENSAGEIRO" tvg-logo="https://is.gd/wZwqHK" type="video" group-title="DRAMA",O MENSAGEIRO
+https://storage.googleapis.com/volblack-iptv/DRAMA/O%20Mensageiro%20(2016).mkv
 
 EXTINF:-1 tvg-id="" tvg-name="O PODER E O IMPOSSÍVEL" tvg-logo="https://is.gd/cxKGZf" type="video" group-title="DRAMA",O PODER E O IMPOSSÍVEL
 https://storage.googleapis.com/volblack-iptv/DRAMA/O%20Poder%20e%20o%20Imposs%C3%ADvel%20(2017).mkv
@@ -52,6 +73,9 @@ https://storage.googleapis.com/volblack-iptv/DRAMA/O%20Zool%C3%B3gico%20de%20Var
 
 EXTINF:-1 tvg-id="" tvg-name="PRÓXIMA PARADA APOCALIPSE" tvg-logo="https://is.gd/XqEWnF" type="video" group-title="DRAMA",PRÓXIMA PARADA APOCALIPSE
 https://storage.googleapis.com/volblack-iptv/DRAMA/Pr%C3%B3xima%20Parada%20Apocalipse%20(2018).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="QUATRO VIDAS DE CACHORRO" tvg-logo="https://is.gd/DF34Gp" type="video" group-title="DRAMA",QUATRO VIDAS DE CACHORRO
+https://storage.googleapis.com/volblack-iptv/DRAMA/Quatro%20Vidas%20de%20um%20Cachorro%20(2017).mkv
 
 EXTINF:-1 tvg-id="" tvg-name="RICKI AND THE FLASH DE VOLTA PRA CASA" tvg-logo="https://is.gd/xPwumd" type="video" group-title="DRAMA",RICKI AND THE FLASH DE VOLTA PRA CASA
 https://storage.googleapis.com/volblack-iptv/DRAMA/Ricki%20and%20the%20Flash%20De%20Volta%20pra%20Casa%20(2015).mkv
@@ -64,3 +88,6 @@ https://storage.googleapis.com/volblack-iptv/DRAMA/Supera%C3%A7%C3%A3o%20O%20Mil
 
 #EXTINF:-1 tvg-id="" tvg-name="TRÊS ANÚNCIOS PARA UM CRIME" tvg-logo="https://is.gd/8RqN5b" type="video" group-title="DRAMA",TRÊS ANÚNCIOS PARA UM CRIME
 https://storage.googleapis.com/volblack-iptv/DRAMA/Tr%C3%AAs%20An%C3%BAncios%20Para%20um%20Crime%20(2018).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="UM OLHAR DE ESPERANÇA" tvg-logo="https://is.gd/3yp0Nh" type="video" group-title="DRAMA",UM OLHAR DE ESPERANÇA
+https://storage.googleapis.com/volblack-iptv/DRAMA/Um%20Olhar%20de%20Esperan%C3%A7a%20(2018).mkv
