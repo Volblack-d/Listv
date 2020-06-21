@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="13º DISTRITO (2014)" tvg-logo="https://is.gd/Q8tOZK" type="video" group-title="AÇÃO",13º DISTRITO (2014)
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/13%C2%BA%20Distrito%20(2014).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="211 O GRANDE ASSALTO" tvg-logo="https://is.gd/hjKNLT" type="video" group-title="AÇÃO",211 O GRANDE ASSALTO
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/211%20O%20Grande%20Assalto%20(2018).mkv
 
@@ -28,6 +31,9 @@ https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Blade%20Runner%20204
 
 EXTINF:-1 tvg-id="" tvg-name="BRIGHT" tvg-logo="https://is.gd/D0xHRL" type="video" group-title="AÇÃO",BRIGHT
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Bright%20(2017).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="BUSCA EXPLOSIVA 5" tvg-logo="https://is.gd/rWIbdr" type="video" group-title="AÇÃO",BUSCA EXPLOSIVA 5
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Busca%20Explosiva%205%20Campo%20de%20Batalha%20(2017).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="CAÇADA BRUTAL" tvg-logo="https://is.gd/hzHfRC" type="video" group-title="AÇÃO",CONFRONTO NO PAVILHÃO 99
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Ca%C3%A7ada%20Brutal%20(2017).mkv
@@ -80,6 +86,9 @@ https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Dupla%20Explosiva%20
 #EXTINF:-1 tvg-id="" tvg-name="EM BUSCA DE VINGANÇA" tvg-logo="https://is.gd/h2Fhix" type="video" group-title="AÇÃO",EM BUSCA DE VINGANÇA
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Em%20Busca%20de%20Vingan%C3%A7a%20(2017).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="JACK REACHER SEM RETORNO" tvg-logo="https://is.gd/yo40Kf" type="video" group-title="AÇÃO",JACK REACHER SEM RETORNO
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Jack%20Reacher%20Sem%20Retorno%20(2016).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="KINGSMAN O CÍRCULO DOURADO" tvg-logo="https://is.gd/S7tX2K" type="video" group-title="AÇÃO",KINGSMAN O CÍRCULO DOURADO
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Kingsman%20O%20C%C3%ADrculo%20Dourado%20(2017).mkv
 
@@ -104,6 +113,9 @@ https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Na%20Mira%20do%20Ati
 #EXTINF:-1 tvg-id="" tvg-name="OPERAÇÃO AVALANCHE" tvg-logo="https://is.gd/uD2nh9" type="video" group-title="AÇÃO",OPERAÇÃO AVALANCHE
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Opera%C3%A7%C3%A3o%20Avalanche%20(2016).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="PUNHOS DE AÇO" tvg-logo="https://is.gd/2POt9p" type="video" group-title="AÇÃO",PUNHOS DE AÇO
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Punhos%20de%20A%C3%A7o%20(2016).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="O GRANDE DRAGÃO BRANCO" tvg-logo="https://is.gd/Wh9KO1" type="video" group-title="AÇÃO",O GRANDE DRAGÃO BRANCO
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/O%20GRANDE%20DRAG%C3%83O%20BRANCO%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
@@ -121,6 +133,9 @@ https://storage.googleapis.com/volblack/A%C3%87%C3%83O/RAMBO%20IV%20-%20DUBLADO%
 
 #EXTINF:-1 tvg-id="" tvg-name="REVOLT" tvg-logo="https://is.gd/DHYtCb" type="video" group-title="AÇÃO",REVOLT
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Revolt%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SABOTAGEM" tvg-logo="https://is.gd/uZC4rf" type="video" group-title="AÇÃO",SABOTAGEM
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Sabotagem%20(2014).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY I O LUTADOR" tvg-logo="https://is.gd/sd6tkv" type="video" group-title="AÇÃO",ROCKY I O LUTADOR
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/ROCKY%20I%20-%20O%20LUTADOR%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -143,5 +158,14 @@ https://storage.googleapis.com/volblack/A%C3%87%C3%83O/ROCKY%20VI%20-%20DUBLADO%
 #EXTINF:-1 tvg-id="" tvg-name="ROTA DE FUGA 2" tvg-logo="https://is.gd/lwhEzo" type="video" group-title="AÇÃO",ROTA DE FUGA 2
 https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Rota%20de%20Fuga%202%20Hades%20(2018).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="SANTOS JUSTICEIROS" tvg-logo="https://is.gd/kVlTeb" type="video" group-title="AÇÃO",SANTOS JUSTICEIROS
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Santos%20Justiceiros%20(1999).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SANTOS JUSTICEIROS 2 O RETORNO" tvg-logo="https://is.gd/Dd07K9" type="video" group-title="AÇÃO",SANTOS JUSTICEIROS 2 O RETORNO
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Santos%20Justiceiros%202%20O%20Retorno%20(2009).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="STALLONE COBRA" tvg-logo="https://is.gd/artqWH" type="video" group-title="AÇÃO",STALLONE COBRA
 https://storage.googleapis.com/volblack/A%C3%87%C3%83O/STALLONE%20COBRA%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="VELOZES E FURIOSOS 8" tvg-logo="https://is.gd/M22Z4d" type="video" group-title="AÇÃO",VELOZES E FURIOSOS 8
+https://storage.googleapis.com/volblack-iptv/A%C3%87%C3%83O/Velozes%20e%20Furiosos%208%20(2017).mkv
