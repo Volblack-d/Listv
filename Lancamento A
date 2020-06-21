@@ -1,15 +1,63 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="UMA PROVA DE FÉ 2" tvg-logo="https://is.gd/kGNJwc" type="video" group-title="LANÇAMENTOS A",UMA PROVA DE FÉ 2
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Uma%20Prova%20de%20F%C3%A9%202%20Voltando%20para%20Casa%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="WASP NETWORK REDE DE ESPIÕES" tvg-logo="https://is.gd/7VyGYR" type="video" group-title="LANÇAMENTOS A",WASP NETWORK REDE DE ESPIÕES
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Wasp%20Network%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="7500" tvg-logo="https://is.gd/Iv68sA" type="video" group-title="LANÇAMENTOS A",7500
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/7500%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CORAÇÃO DE DRAGÃO VINGANÇA" tvg-logo="https://is.gd/OrxEw7" type="video" group-title="LANÇAMENTOS A",CORAÇÃO DE DRAGÃO VINGANÇA
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Corac%C3%A3o%20de%20Drag%C3%A3o%20Vingan%C3%A7a%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O VASTIDÃO DA NOITE" tvg-logo="https://is.gd/mQhcbw" type="video" group-title="LANÇAMENTOS A",O VASTIDÃO DA NOITE
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/O%20Vastid%C3%A3o%20da%20noite%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O DESTACAMENTO BLOODS" tvg-logo="https://is.gd/80bN3S" type="video" group-title="LANÇAMENTOS A",O DESTACAMENTO BLOODS
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Destacamento%20Blood%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="KINGS LOS ANGELES EM CHAMAS" tvg-logo="https://is.gd/Wbl84G" type="video" group-title="LANÇAMENTOS A",KINGS LOS ANGELES EM CHAMAS
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Kings%20Los%20Angeles%20em%20Chamas%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="VIVEIRO" tvg-logo="https://is.gd/Bmbnxh" type="video" group-title="LANÇAMENTOS A",VIVEIRO
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Viveiro%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O PREÇO DA VERDADE" tvg-logo="https://is.gd/Tj664i" type="video" group-title="LANÇAMENTOS A",O PREÇO DA VERDADE
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/O%20Pre%C3%A7o%20da%20Verdade%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CORPORATE ANIMALS" tvg-logo="https://is.gd/XvPzOh" type="video" group-title="LANÇAMENTOS A",CORPORATE ANIMALS
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Corporate%20Animals%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O HOMEM INVISÍVEL (2020)" tvg-logo="https://is.gd/Ma8nHV" type="video" group-title="LANÇAMENTOS A",O HOMEM INVISÍVEL (2020)
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/O%20Homem%20Invis%C3%ADvel%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O VENDEDOR CHINÊS" tvg-logo="https://is.gd/bJQEou" type="video" group-title="LANÇAMENTOS A",O VENDEDOR CHINÊS
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/O%20Vendedor%20Chin%C3%AAs%20(2018).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="PENSE COMO UM CÃO" tvg-logo="https://is.gd/aSgV2T" type="video" group-title="LANÇAMENTOS A",PENSE COMO UM CÃO
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Pense%20Como%20um%20C%C3%A3o%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A MALDIÇÃO DE SHARON TATE" tvg-logo="https://is.gd/5Sqigq" type="video" group-title="LANÇAMENTOS A",A MALDIÇÃO DE SHARON TATE
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/A%20Maldi%C3%A7%C3%A3o%20de%20Sharon%20Tate%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ULTIMA CHANCE" tvg-logo="https://is.gd/CA3plS" type="video" group-title="LANÇAMENTOS A",ULTIMA CHANCE
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Ultima%20Chance%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O ASSASSINATO DE DE NICOLE BROWN SIMPSON" tvg-logo="https://is.gd/gnr5az" type="video" group-title="LANÇAMENTOS A",O ASSASSINATO DE DE NICOLE BROWN SIMPSON
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/O%20Assassinato%20de%20Nicole%20Brown%20Simpson%20(2019).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="PACIENTE ZERO" tvg-logo="https://is.gd/jczOUG" type="video" group-title="LANÇAMENTOS A",PACIENTE ZERO
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Paciente%20Zero%20(2020).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="SEDUÇÃO PERIGOSA" tvg-logo="https://is.gd/8Pra86" type="video" group-title="LANÇAMENTOS A",SEDUÇÃO PERIGOSA
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Seducao%20Perigosa%20(2018).mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="O ACERTO" tvg-logo="https://is.gd/gOqUEI" type="video" group-title="LANÇAMENTOS A",O ACERTO
-https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Seducao%20Perigosa%20(2018).mkv
+#EXTINF:-1 tvg-id="" tvg-name="O ACERTO" tvg-logo="https://is.gd/M5s73Y" type="video" group-title="LANÇAMENTOS A",O ACERTO
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/O%20Acerto%20(2019).mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="A REVOLUÇÃO EM PARIS" tvg-logo="https://is.gd/gOqUEI" type="video" group-title="LANÇAMENTOS A",A REVOLUÇÃO EM PARIS
-https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Seducao%20Perigosa%20(2018).mkv
+#EXTINF:-1 tvg-id="" tvg-name="A REVOLUÇÃO EM PARIS" tvg-logo="https://is.gd/Ij0LqY" type="video" group-title="LANÇAMENTOS A",A REVOLUÇÃO EM PARIS
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/A%20Revolucao%20em%20Paris%20(2019).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="JUDY POR TRAS DO ARCO IRIS" tvg-logo="https://is.gd/98XdIu" type="video" group-title="LANÇAMENTOS A",JUDY POR TRAS DO ARCO IRIS
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Judy%20Por%20Tras%20do%20Arco%20Iris%20(2020).mkv
@@ -31,9 +79,6 @@ https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Arkansas.2020.m
 
 #EXTINF:-1 tvg-id="" tvg-name="A CRIANÇA ZUMBI" tvg-logo="https://is.gd/CKet7v" type="video" group-title="LANÇAMENTOS A",A CRIANÇA ZUMBI
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/A%20CRIAN%C3%87A%20ZUMBI%20(Zombi%20Child%202019).mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="A VASTIDÃO DA NOITE LEG" tvg-logo="https://is.gd/1hqMFr" type="video" group-title="LANÇAMENTOS A",A VASTIDÃO DA NOITE LEG
-https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/A%20VASTID%C3%83O%20DA%20NOITE.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="BANHO DE SANGUE" tvg-logo="https://is.gd/6EYdjE" type="video" group-title="LANÇAMENTOS A",BANHO DE SANGUE
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Banho.de.Sangue.2020.mkv
@@ -100,9 +145,6 @@ https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/NUNCA%20DEIXE%2
 
 #EXTINF:-1 tvg-id="" tvg-name="BONECO DO MAL II LEG" tvg-logo="https://is.gd/WH9Yak" type="video" group-title="LANÇAMENTOS A",BONECO DO MAL II LEG
 https://storage.googleapis.com/volblack/Lan%C3%A7amento/BONECO%20DO%20MAL%20II%20-%20LEGENDADO%20-%20FULL%20HD.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="O HOMEM INVISÍVEL LEG" tvg-logo="https://is.gd/GWBKC3" type="video" group-title="LANÇAMENTOS A",O HOMEM INVISÍVEL LEG
-https://storage.googleapis.com/volblack/Lan%C3%A7amento/O%20HOMEM%20INVIS%C3%8DVEL%20-%20LEGENDADO%20-%20FULL%20HD.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="TERREMOTO 2020" tvg-logo="https://is.gd/tXIPPn" type="video" group-title="LANÇAMENTOS A",TERREMOTO 2020
 https://storage.googleapis.com/volblack/Lan%C3%A7amento/TERREMOTO%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -257,7 +299,7 @@ https://storage.googleapis.com/volblack/Lan%C3%A7amento/BOHEMIAN%20RHAPSODY%20-%
 #EXTINF:-1 tvg-id="" tvg-name="JOJO RABIT" tvg-logo="https://is.gd/vVhLKT" type="video" group-title="LANÇAMENTOS A",JOJO RABIT
 https://storage.googleapis.com/volblack/Lan%C3%A7amento/JOJO%20RABIT%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="AMEAÇA PROFUNDA" tvg-logo="https://is.gd/xXwCZJ" type="video" group-title="LANÇAMENTOS A",AMEAÇA PROFUNDA
+#EXTINF:-1 tvg-id="" tvg-name="AMEAÇA PROFUNDA" tvg-logo="https://is.gd/xXwCZJ" type="video" group-title="LANÇAMENTOS A"AMEAÇA PROFUNDA
 https://storage.googleapis.com/lancamento/Amea%C3%A7a%20Profunda.2020.1080p-dual-por-cinemaqualidade.is.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="O PACTO" tvg-logo="https://is.gd/A3TBE3" type="video" group-title="LANÇAMENTOS A",O PACTO
