@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A FREIRA" tvg-logo="https://is.gd/SUIHeC" type="video" group-title="TERROR",A FREIRA
+https://storage.googleapis.com/volblack-iptv/TERROR/A%20Freira%20(2018).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="A CASA DO MEDO INCIDENTE EM GHOSTLAND" tvg-logo="https://is.gd/xcaqtf" type="video" group-title="TERROR",A CASA DO MEDO INCIDENTE EM GHOSTLAND
 https://storage.googleapis.com/volblack/TERROR/A%20CASA%20DO%20MEDO%20-%20INCIDENTE%20EM%20GHOSTLAND%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
@@ -20,8 +23,20 @@ https://storage.googleapis.com/volblack-iptv/TERROR/ANACONDA.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ARRASTE ME PARA O INFERNO" tvg-logo="https://is.gd/29U4SU" type="video" group-title="TERROR",ARRASTE ME PARA O INFERNO
 https://storage.googleapis.com/volblack-iptv/TERROR/ARRASTE-ME%20PARA%20O%20INFERNO%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+EXTINF:-1 tvg-id="" tvg-name="ANIQUILAÇÃO" tvg-logo="https://is.gd/wmrAsv" type="video" group-title="TERROR",ANIQUILAÇÃO
+https://storage.googleapis.com/volblack-iptv/TERROR/Aniquila%C3%A7%C3%A3o%20(2018).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="ANNABELLE 2 A CRIAÇÃO DO MAL" tvg-logo="https://is.gd/0tpMyv" type="video" group-title="TERROR",ANNABELLE 2 A CRIAÇÃO DO MAL
+https://storage.googleapis.com/volblack-iptv/TERROR/Annabelle%202%20A%20Cria%C3%A7%C3%A3o%20do%20Mal%20(2017).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="AO CAIR DA NOITE" tvg-logo="https://is.gd/8izwtL" type="video" group-title="TERROR",AO CAIR DA NOITE
+https://storage.googleapis.com/volblack-iptv/TERROR/Ao%20Cair%20da%20Noite%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="BONECO DO MAL" tvg-logo="https://is.gd/h0WV9D" type="video" group-title="TERROR",BONECO DO MAL
 https://storage.googleapis.com/volblack/TERROR/BONECO%20DO%20MAL%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CARRIE A ESTRANHA" tvg-logo="https://is.gd/391QOs" type="video" group-title="TERROR",CARRIE A ESTRANHA
+https://storage.googleapis.com/volblack-iptv/TERROR/Carrie%2C%20a%20Estranha%20(2013).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="CEMINTÉRIO MALDITO 1989" tvg-logo="https://is.gd/eOi345" type="video" group-title="TERROR",CEMINTÉRIO MALDITO 1989
 https://storage.googleapis.com/volblack/TERROR/CEMIT%C3%89RIO%20MALDITO%201989%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -35,6 +50,9 @@ https://storage.googleapis.com/volblack/TERROR/Cubo%202%20-%20Hipercubo%20(2002)
 #EXTINF:-1 tvg-id="" tvg-name="CUBO ZERO" tvg-logo="https://is.gd/LsMLTp" type="video" group-title="TERROR",CUBO ZERO
 https://storage.googleapis.com/volblack/TERROR/Cubo%20Zero%20(2004)%20BluRay%20720p%20Dublado.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="DIA DOS MORTOS" tvg-logo="https://is.gd/KKZ1cw" type="video" group-title="TERROR",DIA DOS MORTOS
+https://storage.googleapis.com/volblack-iptv/TERROR/Dia%20dos%20Mortos%20(2018).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="DRÁCULA A HISTÓRIA NUNCA CONTADA" tvg-logo="https://is.gd/LlpvLB" type="video" group-title="TERROR",DRÁCULA A HISTÓRIA NUNCA CONTADA
 https://storage.googleapis.com/volblack-iptv/TERROR/Dracula.A.Historia.Nunca.Contada.(2014).mkv
 
@@ -47,11 +65,38 @@ https://storage.googleapis.com/volblack-iptv/TERROR/FRED%20VS%20JASON%20-%20DUBL
 #EXTINF:-1 tvg-id="" tvg-name="GUERRA MUNDIAL Z SEM CORTES" tvg-logo="https://is.gd/PhvOpB" type="video" group-title="TERROR",GUERRA MUNDIAL Z SEM CORTES
 https://storage.googleapis.com/volblack-iptv/TERROR/GUERRA%20MUNDIAL%20Z%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="HISTÓRIA DE ALÉM TÚMULO" tvg-logo="https://is.gd/tyoOfq" type="video" group-title="TERROR",HISTÓRIA DE ALÉM TÚMULO
+https://storage.googleapis.com/volblack-iptv/TERROR/Hist%C3%B3rias%20de%20Al%C3%A9m-T%C3%BAmulo%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="IT A COISA" tvg-logo="https://is.gd/oncWiZ" type="video" group-title="TERROR",IT A COISA
+https://storage.googleapis.com/volblack-iptv/TERROR/It%20A%20Coisa%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS MORTAIS JIGSAW" tvg-logo="https://is.gd/ZIB76k" type="video" group-title="TERROR",JOGOS MORTAIS JIGSAW
 https://storage.googleapis.com/volblack-iptv/TERROR/Jogos%20Mortais%20Jigsaw%20(2018).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="JOÃO E MARIA CAÇADORES DE BRUXAS" tvg-logo="https://is.gd/vkjOTj" type="video" group-title="TERROR",JOÃO E MARIA CAÇADORES DE BRUXAS
+https://storage.googleapis.com/volblack-iptv/TERROR/Jo%C3%A3o%20e%20Maria%20Ca%C3%A7adores%20de%20Bruxas%20(2013).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="MAMA" tvg-logo="https://is.gd/jPbn6A" type="video" group-title="TERROR",MAMA
+https://storage.googleapis.com/volblack-iptv/TERROR/Mama%20(2013).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="MASSACRE NO TEXAS" tvg-logo="https://is.gd/DbPqLN" type="video" group-title="TERROR",MASSACRE NO TEXAS
+https://storage.googleapis.com/volblack-iptv/TERROR/Massacre%20no%20Texas%20(2017).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="O ATAQUE DOS VERMES MALDITOS 6" tvg-logo="https://is.gd/Od3ZPP" type="video" group-title="TERROR",O ATAQUE DOS VERMES MALDITOS 6
+https://storage.googleapis.com/volblack-iptv/TERROR/O%20Ataque%20dos%20Vermes%20Malditos%206%20(2018).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="O CHAMADO 3" tvg-logo="https://is.gd/YWYb3a" type="video" group-title="TERROR",O CHAMADO 3
+https://storage.googleapis.com/volblack-iptv/TERROR/O%20Chamado%203%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O CULTO DE CHUCKY" tvg-logo="https://is.gd/rqolZg" type="video" group-title="TERROR",O CULTO DE CHUCKY
+https://storage.googleapis.com/volblack-iptv/TERROR/O%20Culto%20de%20Chucky%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="O EXORCISTA VERSÃO EXTENDIDA" tvg-logo="https://is.gd/S1uaEB" type="video" group-title="TERROR",O EXORCISTA VERSÃO EXTENDIDA
 https://storage.googleapis.com/volblack-iptv/TERROR/O%20EXORCISTA%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O ENIGMA DO OUTRO MUNDO" tvg-logo="https://is.gd/ungHgN" type="video" group-title="TERROR",O ENIGMA DO OUTRO MUNDO
+https://storage.googleapis.com/volblack-iptv/TERROR/O%20Enigma%20do%20outro%20Mundo%20(1982).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="O OLHO DO DEMÔNIO" tvg-logo="https://is.gd/LVGS5O" type="video" group-title="TERROR",O OLHO DO DEMÔNIO
 https://storage.googleapis.com/volblack-iptv/TERROR/O%20OLHO%20DO%20DEMONIO%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -65,14 +110,26 @@ https://storage.googleapis.com/volblack-iptv/TERROR/OLHOS%20FAMINTOS%202%20-%20D
 #EXTINF:-1 tvg-id="" tvg-name="OLHOS FAMINTOS 3" tvg-logo="https://is.gd/Bm94zw" type="video" group-title="TERROR",OLHOS FAMINTOS 3
 https://storage.googleapis.com/volblack-iptv/TERROR/OLHOS%20FAMINTOS%203%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="OUIJA ORIGEM DO MAL" tvg-logo="https://is.gd/MmNu9q" type="video" group-title="TERROR",OUIJA ORIGEM DO MAL
+https://storage.googleapis.com/volblack-iptv/TERROR/Ouija%20Origem%20do%20Mal%20(2016).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="PANICO NO LAGO O LEGADO" tvg-logo="https://is.gd/2eDlj5" type="video" group-title="TERROR",PANICO NO LAGO O LEGADO
+https://storage.googleapis.com/volblack-iptv/TERROR/P%C3%A2nico%20no%20Lago%20O%20Legado%20(2018).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="PANICO NO DESERTO" tvg-logo="https://is.gd/V0wkWb" type="video" group-title="TERROR",PANICO NO DESERTO
 https://storage.googleapis.com/volblack/TERROR/PANICO%20NO%20DESERTO%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="RESIDENT EVIL 6 CAPÍTULO FINAL" tvg-logo="https://is.gd/Y5TWcO" type="video" group-title="TERROR",RESIDENT EVIL 6 CAPÍTULO FINAL
+https://storage.googleapis.com/volblack-iptv/TERROR/Resident%20Evil%206%20O%20Cap%C3%ADtulo%20Final%20(2016).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="POLTERGEIST 1982" tvg-logo="https://is.gd/WloWze" type="video" group-title="TERROR",POLTERGEIST 1982
 https://storage.googleapis.com/volblack/TERROR/POLTERGEIST%201982%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="POLTERGEIST 2015 VERSÃO EXTENDIDA" tvg-logo="https://is.gd/DrqMk3" type="video" group-title="TERROR",POLTERGEIST 2015 VERSÃO EXTENDIDA
 https://storage.googleapis.com/volblack/TERROR/POLTERGEIST%202015%20-%20VERS%C3%83O%20EXTENDIDA%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="RENASCIDA DO INFERNO" tvg-logo="https://is.gd/hyUBvv" type="video" group-title="TERROR",RENASCIDA DO INFERNO
+https://storage.googleapis.com/volblack-iptv/TERROR/Renascida%20do%20Inferno%20(2015).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="SERES RASTEJANTES" tvg-logo="https://is.gd/LeWdkb" type="video" group-title="TERROR",SERES RASTEJANTES
 https://storage.googleapis.com/volblack/TERROR/SERES%20RASTEJANTES%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -91,6 +148,21 @@ https://storage.googleapis.com/volblack-iptv/TERROR/SOBRENATURAL%20A%20ULTIMA%20
 
 #EXTINF:-1 tvg-id="" tvg-name="STIGMATA" tvg-logo="https://is.gd/aSyYyX" type="video" group-title="TERROR",STIGMATA
 https://storage.googleapis.com/volblack-iptv/TERROR/STIGMATA%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SETE MINUTOS DEPOIS DA MEIA NOITE" tvg-logo="https://is.gd/euocuK" type="video" group-title="TERROR",SETE MINUTOS DEPOIS DA MEIA NOITE
+https://storage.googleapis.com/volblack-iptv/TERROR/Sete%20Minutos%20Depois%20da%20Meia-Noite%20(2016).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SILENT HILL A REVELAÇÃO" tvg-logo="https://is.gd/CfLtvB" type="video" group-title="TERROR",SILENT HILL A REVELAÇÃO
+https://storage.googleapis.com/volblack-iptv/TERROR/Silent%20Hill%20Revela%C3%A7%C3%A3o%20(2012).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SONO MORTAL" tvg-logo="https://is.gd/Cbs0G6" type="video" group-title="TERROR",SONO MORTAL
+https://storage.googleapis.com/volblack-iptv/TERROR/Sono%20Mortal%20(2016).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="TERROR EM SILENT HILL" tvg-logo="https://is.gd/CBEcNk" type="video" group-title="TERROR",TERROR EM SILENT HILL
+https://storage.googleapis.com/volblack-iptv/TERROR/Terror%20em%20Silent%20Hill%20(2006).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="UMA NOITE ALUCINANTE (1981)" tvg-logo="https://is.gd/4wRk3y" type="video" group-title="TERROR",UMA NOITE ALUCINANTE (1981)
+https://storage.googleapis.com/volblack-iptv/TERROR/Uma%20Noite%20Alucinante%20(1981).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="VIDA" tvg-logo="https://is.gd/wfoctG" type="video" group-title="TERROR",VIDA
 https://storage.googleapis.com/volblack-iptv/TERROR/VIDA%20-%20DUBLADO%20-%20FULL%20HD.mkv
