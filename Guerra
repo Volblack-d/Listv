@@ -32,6 +32,9 @@ https://storage.googleapis.com/volblack-iptv/GUERRA/BASTARGOS%20INGLORIOS%20-%20
 #EXTINF:-1 tvg-id="" tvg-name="CAVALO DE GUERRA" tvg-logo="https://is.gd/6jMHe5" type="video" group-title="GUERRA",CAVALO DE GUERRA
 https://storage.googleapis.com/volblack-iptv/GUERRA/CAVALO%20DE%20GUERRA%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="CAMPO MINADO" tvg-logo="https://is.gd/o4NvAa" type="video" group-title="GUERRA",CAMPO MINADO
+https://storage.googleapis.com/volblack-iptv/GUERRA/Campo%20Minado%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="CIRCULO DE FOGO" tvg-logo="https://is.gd/5BWY6d" type="video" group-title="GUERRA",CIRCULO DE FOGO
 https://storage.googleapis.com/volblack/GUERRA/CIRCULO%20DE%20FOGO%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
@@ -55,6 +58,9 @@ https://storage.googleapis.com/volblack-iptv/GUERRA/HEROIS%20DE%20UMA%20GUERRA.m
 
 #EXTINF:-1 tvg-id="" tvg-name="IMPERIO DO SOL" tvg-logo="https://is.gd/oN6BJR" type="video" group-title="GUERRA",IMPERIO DO SOL
 https://storage.googleapis.com/volblack-iptv/GUERRA/IMP%C3%89RIO%20DO%20SOL.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="MAQUINA DE GUERRA" tvg-logo="https://is.gd/Yjqnlm" type="video" group-title="GUERRA",MAQUINA DE GUERRA
+https://storage.googleapis.com/volblack-iptv/GUERRA/M%C3%A1quina%20de%20Guerra%20(2017).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="NASCIDO PARA MATAR" tvg-logo="https://is.gd/RVlWe5" type="video" group-title="GUERRA",NASCIDO PARA MATAR
 https://storage.googleapis.com/volblack-iptv/GUERRA/NASCIDO%20PARA%20MATAR%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -88,3 +94,4 @@ https://storage.googleapis.com/volblack/GUERRA/SNIPER%20AMERICANO%20-%20DUBLADO%
 
 #EXTINF:-1 tvg-id="" tvg-name="TRÊS REIS" tvg-logo="https://is.gd/usQPGK" type="video" group-title="GUERRA",TRÊS REOS
 https://storage.googleapis.com/volblack-iptv/GUERRA/TR%C3%8AS%20REIS.mkv
+
