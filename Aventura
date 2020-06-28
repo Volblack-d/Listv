@@ -35,11 +35,35 @@ https://storage.googleapis.com/volblack-iptv/AVENTURA/ARMAGEDDON%201998.mkv
 #EXTINF:-1 tvg-id="" tvg-name="AVANTAR VERSÃO EXTENDIDA" tvg-logo="https://is.gd/QdV9du" type="video" group-title="AVENTURA",AVANTAR VERSÃO EXTENDIDA
 https://storage.googleapis.com/volblack/AVENTURA/AVATAR%20-%20VERS%C3%83O%20EXTENDIDA%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN VS SUPERMAN" tvg-logo="https://is.gd/AKhLTU" type="video" group-title="AVENTURA",BATMAN VS SUPERMAN
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Batman%20v%20superman%20dawn%20of%20justice%20(2016).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="BEN HUR 1959" tvg-logo="https://is.gd/W7oHrV" type="video" group-title="AVENTURA",BEN HUR 1959
 https://storage.googleapis.com/volblack/AVENTURA/BEN%20HUR%20-%201959%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="BRANCA DE NEVE E O CAÇADOR" tvg-logo="https://is.gd/SwZBeP" type="video" group-title="AVENTURA",BRANCA DE NEVE E O CAÇADOR
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Branca%20de%20Neve%20e%20o%20Ca%C3%A7ador%20(2012).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="BRANCA DE NEVE O CAÇADOR E A RAINHA DO GELO" tvg-logo="https://is.gd/G6BHYj" type="video" group-title="AVENTURA",BRANCA DE NEVE O CAÇADOR E A RAINHA DO GELO
+https://storage.googleapis.com/volblack-iptv/AVENTURA/O%20Ca%C3%A7ador%20e%20a%20Rainha%20de%20Gelo%20(2016).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMERICA O PRIMEIRO VINGADOR" tvg-logo="https://is.gd/a53oxX" type="video" group-title="AVENTURA",CAPITÃO AMERICA O PRIMEIRO VINGADOR
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Capit%C3%A3o%20Am%C3%A9rica%20O%20Primeiro%20Vingador%20(2011).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMERICA 2 SOLDADO INVERNAL" tvg-logo="https://is.gd/1HWhNG" type="video" group-title="AVENTURA",CAPITÃO AMERICA 2 SOLDADO INVERNAL
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Capit%C3%A3o%20Am%C3%A9rica%202%20O%20Soldado%20Invernal%20(2014).mkv
+
+EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMERICA GUERRA CIVIL" tvg-logo="https://is.gd/QwVMxt" type="video" group-title="AVENTURA",CAPITÃO AMERICA GUERRA CIVIL
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Capit%C3%A3o%20Am%C3%A9rica%20Guerra%20Civil%20(2016).mkv
+
 EXTINF:-1 tvg-id="" tvg-name="CAPITÃO PHILLIPS" tvg-logo="https://is.gd/FaNff4" type="video" group-title="AVENTURA",CAPITÃO PHILLIPS
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Capit%C3%A3o%20Phillips%20(2013).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CIRCULO DE FOGO (2013)" tvg-logo="https://is.gd/vb0aGS" type="video" group-title="AVENTURA",CIRCULO DE FOGO (2013)
+https://storage.googleapis.com/volblack-iptv/AVENTURA/C%C3%ADrculo%20de%20Fogo%20(2013).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CIRCULO DE FOGO A REVOLTA" tvg-logo="https://is.gd/wz907Q" type="video" group-title="AVENTURA",CIRCULO DE FOGO A REVOLTA
+https://storage.googleapis.com/volblack-iptv/AVENTURA/C%C3%ADrculo%20de%20Fogo%20A%20Revolta%20(2018).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="CONAN O BARBARO 1982" tvg-logo="https://is.gd/UjxIaA" type="video" group-title="AVENTURA",CONAN O BARBARO 1982
 https://storage.googleapis.com/volblack/AVENTURA/CONAN%20-%20O%20BARBARO%20-%201982%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -55,9 +79,6 @@ https://storage.googleapis.com/volblack-iptv/AVENTURA/CORA%C3%87%C3%83O%20VALENT
 
 #EXTINF:-1 tvg-id="" tvg-name="CORAÇÃO DE DRAGÃO BATALHA CORAÇÃO DE FOGO" tvg-logo="https://is.gd/qUpTD0" type="video" group-title="AVENTURA",CORAÇÃO DE DRAGÃO BATALHA CORAÇÃO DE FOGO
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Cora%C3%A7%C3%A3o%20de%20Drag%C3%A3o%20A%20Batalha%20pelo%20Cora%C3%A7%C3%A3o%20de%20Fogo%20(2017).mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="CIRCULO DE FOGO (2013)" tvg-logo="https://is.gd/vb0aGS" type="video" group-title="AVENTURA",CIRCULO DE FOGO (2013)
-https://storage.googleapis.com/volblack-iptv/AVENTURA/C%C3%ADrculo%20de%20Fogo%20(2013).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="DEADPOOL 2" tvg-logo="https://is.gd/7EaN69" type="video" group-title="AVENTURA",DEADPOOL 2
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Deadpool%202%20(2018).mkv
@@ -100,6 +121,18 @@ https://storage.googleapis.com/volblack-iptv/AVENTURA/Guardi%C3%B5es%20da%20Gal%
 
 #EXTINF:-1 tvg-id="" tvg-name="HIGHLANDER O GUERREIRO IMORTAL" tvg-logo="https://is.gd/Mga0FF" type="video" group-title="AVENTURA",HIGHLANDER O GUERREIRO IMORTAL
 https://storage.googleapis.com/volblack/AVENTURA/HIGHLANDER%20-%20O%20GUERREIRO%20IMORTAL%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA DE VOLTA AO LAR" tvg-logo="https://is.gd/pFqgcc" type="video" group-title="AVENTURA",HOMEM ARANHA DE VOLTA AO LAR
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Homem-Aranha%20De%20Volta%20ao%20Lar%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO" tvg-logo="https://is.gd/UmOQK0" type="video" group-title="AVENTURA",HOMEM DE FERRO
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Homem%20de%20Ferro%20(2008).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 2" tvg-logo="https://is.gd/SMN5eC" type="video" group-title="AVENTURA",HOMEM DE FERRO 2
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Homem%20de%20Ferro%202%20(2010).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 3" tvg-logo="https://is.gd/F6LAHB" type="video" group-title="AVENTURA",HOMEM DE FERRO 3
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Homem%20de%20Ferro%203%20(2013).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="HOMEM FORMIGA E A VESPA" tvg-logo="https://is.gd/TVy08U" type="video" group-title="AVENTURA",HOMEM FORMIGA E A VESPA
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Homem-Formiga%20e%20a%20Vespa%20(2018).mkv
@@ -167,6 +200,9 @@ https://storage.googleapis.com/volblack/AVENTURA/O%20HOBBIT%20-%20A%20DESOLA%C3%
 #EXTINF:-1 tvg-id="" tvg-name="O HOBBIT A BATALHA DOS CINCO EXERCÍTOS" tvg-logo="https://is.gd/s0Y5cV" type="video" group-title="AVENTURA",O HOBBIT A BATALHA DOS CINCO EXERCÍTOS
 https://storage.googleapis.com/volblack/AVENTURA/O%20HOBBIT%20-%20A%20BATALHA%20DOS%20CINCO%20EX%C3%89RCITOS.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="O MISTÉRIO DO RELOGIO DA PAREDE" tvg-logo="https://is.gd/0FA2w3" type="video" group-title="AVENTURA",O MISTÉRIO DO RELOGIO DA PAREDE
+https://storage.googleapis.com/volblack-iptv/AVENTURA/O%20Mist%C3%A9rio%20do%20Rel%C3%B3gio%20na%20Parede%20(2018).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="O SENHOR DOS ANEIS A SOCIEDADE DOS ANEIS" tvg-logo="https://is.gd/BQi3Ix" type="video" group-title="AVENTURA",O SENHOR DOS ANEIS A SOCIEDADE DOS ANEIS
 https://storage.googleapis.com/volblack/AVENTURA/O%20SENHOR%20DOS%20ANEIS%20-%20SOCIEDADE%20DO%20ANEL.mkv
 
@@ -175,6 +211,12 @@ https://storage.googleapis.com/volblack/AVENTURA/O%20SENHOR%20DOS%20ANEIS%20-%20
 
 #EXTINF:-1 tvg-id="" tvg-name="O SENHOR DOS ANEIS O RETORNO DO REI" tvg-logo="https://is.gd/kmNf2d" type="video" group-title="AVENTURA",O SENHOR DOS ANEIS O RETORNO DO REI
 https://storage.googleapis.com/volblack/AVENTURA/O%20SENHOR%20DOS%20ANEIS%20-%20O%20RETORNO%20DO%20REI.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O HOMEM DE AÇO" tvg-logo="https://is.gd/axsB7l" type="video" group-title="AVENTURA",O HOMEM DE AÇO
+https://storage.googleapis.com/volblack-iptv/AVENTURA/O%20Homem%20de%20A%C3%A7o%20(2013).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPER-MAN O RETORNO" tvg-logo="https://is.gd/GXbSqI" type="video" group-title="AVENTURA",SUPER-MAN O RETORNO
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Superman%20O%20Retorno%20(2006).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="O PATRIOTA" tvg-logo="https://is.gd/aL0d1l" type="video" group-title="AVENTURA",O PATRIOTA
 https://storage.googleapis.com/volblack-iptv/AVENTURA/O%20PATRIOTA%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -202,6 +244,12 @@ https://storage.googleapis.com/volblack-iptv/AVENTURA/Os%20Guardi%C3%B5es%20(201
 
 #EXTINF:-1 tvg-id="" tvg-name="OS INTOCÁVEIS" tvg-logo="https://is.gd/FIW0hk" type="video" group-title="AVENTURA",OS INTOCÁVEIS
 https://storage.googleapis.com/volblack/AVENTURA/OS%20INTOCAVEIS%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES (2012)" tvg-logo="https://is.gd/Fa09m1" type="video" group-title="AVENTURA",OS VINGADORES (2012)
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Os%20Vingadores%20(2012).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES ERA DE UTRON (2015)" tvg-logo="https://is.gd/nDwHi7" type="video" group-title="AVENTURA",OS VINGADORES ERA DE UTRON (2015)
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Os%20Vingadores%20Era%20de%20Ultron%20(2015).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="OS VINGADORES GUERRA INFINITA" tvg-logo="https://is.gd/ka5V6e" type="video" group-title="AVENTURA",OS VINGADORES GUERRA INFINITA
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Vingadores%20Guerra%20Infinita%20(2018).mkv
@@ -235,6 +283,30 @@ https://storage.googleapis.com/volblack/AVENTURA/TROIA%20-%20VERS%C3%83O%20EXTEN
 
 #EXTINF:-1 tvg-id="" tvg-name="WARCRAFT O ENCONTRO DE DOIS MUNDOS" tvg-logo="https://is.gd/3HJz5k" type="video" group-title="AVENTURA",WARCRAFT O ENCONTRO DE DOIS MUNDOS
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Warcraft%20(2016).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN O FILME" tvg-logo="https://is.gd/EobPJ6" type="video" group-title="AVENTURA",X-MEN O FILME
+https://storage.googleapis.com/volblack-iptv/AVENTURA/X-Men%20O%20Filme%20(2000).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN 2" tvg-logo="https://is.gd/qoX3UH" type="video" group-title="AVENTURA",X-MEN 2
+https://storage.googleapis.com/volblack-iptv/AVENTURA/X-Men%202%20(2003).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN 3 CONFRONTO FINAL" tvg-logo="https://is.gd/6dgSGX" type="video" group-title="AVENTURA",X-MEN 3 CONFRONTO FINAL
+https://storage.googleapis.com/volblack-iptv/AVENTURA/X-Men%203%20O%20Confronto%20Final%20(2006).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN PRIMEIRA CLASSE" tvg-logo="https://is.gd/AAUWFe" type="video" group-title="AVENTURA",X-MEN PRIMEIRA CLASSE
+https://storage.googleapis.com/volblack-iptv/AVENTURA/X-Men%20-%20Primeira%20Classe%20(2011).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN ORIGENS - WOLVERINE" tvg-logo="https://is.gd/NZfhgW" type="video" group-title="AVENTURA",X-MEN ORIGENS - WOLVERINE
+https://storage.googleapis.com/volblack-iptv/AVENTURA/X-Men%20Origens%20-%20Wolverine%20(2009).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN O DIAS DO FUTURO ESQUECIDO" tvg-logo="https://is.gd/Ts7w3D" type="video" group-title="AVENTURA",X-MEN O DIAS DO FUTURO ESQUECIDO
+https://storage.googleapis.com/volblack-iptv/AVENTURA/X-Men%20Dias%20de%20um%20Futuro%20Esquecido%20(2014).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN APOCALIPSE" tvg-logo="https://is.gd/dt8T5G" type="video" group-title="AVENTURA",X-MEN APOCALIPSE
+https://storage.googleapis.com/volblack-iptv/AVENTURA/X-Men%20Apocalipse%20(2016).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="WOLVERINE IMORTAL" tvg-logo="https://is.gd/8Fwk4c" type="video" group-title="AVENTURA",WOLVERINE IMORTAL
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Wolverine%20Imortal%20(2013).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Z A CIDADE PERDIDA" tvg-logo="https://is.gd/Ku24rT" type="video" group-title="AVENTURA",Z A CIDADE PERDIDA
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Z%20A%20Cidade%20Perdida%20(2016).mkv
