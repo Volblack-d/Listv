@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AMOR DE MÃE" tvg-logo="https://is.gd/kS0SHY" type="video" group-title="BÍBLICO",AMOR DE MÃE
+https://storage.googleapis.com/volblack-iptv/BIBLICO/Amor%20de%20m%C3%A3e.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="A PAIXÃO DE CRISTO" tvg-logo="https://is.gd/PkjtgB" type="video" group-title="BÍBLICO",A PAIXÃO DE CRISTO
 https://storage.googleapis.com/volblack/B%C3%8DBLICO/OS%20DEZ%20MANDAMENTOS%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
