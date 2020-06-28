@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ALGUEM ESPECIAL" tvg-logo="https://is.gd/E430Is" type="video" group-title="LANÇAMENTOS A",ALGUEM ESPECIAL
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Algu%C3%A9m%20Especial%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A PROVA DE BALAS 2" tvg-logo="https://is.gd/AV8aeV" type="video" group-title="LANÇAMENTOS A",A PROVA DE BALAS 2
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/A%20Prova%20de%20Balas%202%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="COMANDO JUSTICEIRO" tvg-logo="https://is.gd/F7OMHK" type="video" group-title="LANÇAMENTOS A",COMANDO JUSTICEIRO
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Comando%20Justiceiro%20(2019).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="UMA PROVA DE FÉ 2" tvg-logo="https://is.gd/kGNJwc" type="video" group-title="LANÇAMENTOS A",UMA PROVA DE FÉ 2
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Uma%20Prova%20de%20F%C3%A9%202%20Voltando%20para%20Casa%20(2019).mkv
 
