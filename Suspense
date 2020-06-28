@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A CAVERNA PERIGO SUBTERRANEO" tvg-logo="https://is.gd/homH1R" type="video" group-title="SUSPENSE",A CAVERNA PERIGO SUBTERRANEO
+https://storage.googleapis.com/volblack-iptv/TERROR/A%20Caverna%20Perigo%20Subterr%C3%A2neo%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="A HORA DA SUA MORTE" tvg-logo="https://is.gd/9MBoXk" type="video" group-title="SUSPENSE",A HORA DA SUA MORTE
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/A%20HORA%20DA%20SUA%20MORTE%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
@@ -26,11 +29,17 @@ https://storage.googleapis.com/volblack/SUSPENSE/APANHADOR%20DE%20PESADELOS%20-%
 #EXTINF:-1 tvg-id="" tvg-name="ATRAÇÃO DE RISCO" tvg-logo="https://is.gd/n2TRBz" type="video" group-title="SUSPENSE",ATRAÇÃO DE RISCO
 https://storage.googleapis.com/volblack/SUSPENSE/ATRA%C3%87%C3%83O%20DE%20RISCO%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="BRUXA DE BLAIR" tvg-logo="https://is.gd/KIOdnr" type="video" group-title="SUSPENSE",BRUXA DE BLAIR
+https://storage.googleapis.com/volblack-iptv/SUSPENSE/Bruxa%20de%20Blair%20(2016).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="CAÇADOR DE DEMONIOS" tvg-logo="https://is.gd/6K0I1o" type="video" group-title="SUSPENSE",CAÇADOR DE DEMONIOS
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Ca%C3%A7ador%20de%20Dem%C3%B4nios%20(2016).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="CANIBAIS" tvg-logo="https://is.gd/je3Tka" type="video" group-title="SUSPENSE",CANIBAIS
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Canibais%20(2013).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CELULAR" tvg-logo="https://is.gd/FeegOd" type="video" group-title="SUSPENSE",CELULAR
+https://storage.googleapis.com/volblack-iptv/SUSPENSE/Celular%20(2016).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="CONTAMINAÇÃO" tvg-logo="https://is.gd/OaIoEs" type="video" group-title="SUSPENSE",CONTAMINAÇÃO
 https://storage.googleapis.com/volblack/SUSPENSE/Contamina%C3%A7%C3%A3o%20(2009)%20BluRay%20720p%20Dual%20%C3%81udio.mkv
@@ -44,6 +53,9 @@ https://storage.googleapis.com/volblack-iptv/SUSPENSE/Corra!%20(2017).mkv
 #EXTINF:-1 tvg-id="" tvg-name="DARC" tvg-logo="https://is.gd/1Q7kLH" type="video" group-title="SUSPENSE",DARC
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Darc%20(2018).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="DO FUNDO DO MAR" tvg-logo="https://is.gd/IPvquf" type="video" group-title="SUSPENSE",DO FUNDO DO MAR
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Do%20Fundo%20do%20Mar%20(1999).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="DO FUNDO DO MAR 2" tvg-logo="https://is.gd/PpotY9" type="video" group-title="SUSPENSE",DO FUNDO DO MAR 2
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Do%20Fundo%20do%20Mar%202%20(2018).mkv
 
@@ -55,6 +67,9 @@ https://storage.googleapis.com/volblack/SUSPENSE/EM%20TRANSE%20-%20DUBLADO%20-%2
 
 #EXTINF:-1 tvg-id="" tvg-name="ESCONDIDOS" tvg-logo="https://is.gd/eMiKRF" type="video" group-title="SUSPENSE",ESCONDIDOS
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Escondidos%20(2015).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="FASCINAÇÃO MORTAL A VINGANÇA" tvg-logo="https://is.gd/haHLaa" type="video" group-title="SUSPENSE",FASCINAÇÃO MORTAL A VINGANÇA
+https://storage.googleapis.com/volblack-iptv/SUSPENSE/Fascinacao%20Mortal%20A%20Vinganca%20(2019).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="FIM DOS TEMPOS (2013)" tvg-logo="https://is.gd/JHb6t4" type="video" group-title="SUSPENSE",FIM DOS TEMPOS (2013)
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Fim%20Dos%20Tempos%20(2013).mkv
@@ -106,6 +121,9 @@ https://storage.googleapis.com/volblack/SUSPENSE/POSSUIDA%20-%20DUBLADO%20-%20FU
 
 #EXTINF:-1 tvg-id="" tvg-name="PANDEMIA" tvg-logo="https://is.gd/fNP9Kb" type="video" group-title="SUSPENSE",PANDEMIA
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Pandemia%20(2016).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="PERSEGUINDO O ASSASSINO" tvg-logo="https://is.gd/qoDnSe" type="video" group-title="SUSPENSE",PERSEGUINDO O ASSASSINO
+https://storage.googleapis.com/volblack-iptv/SUSPENSE/Perseguindo%20o%20Assassino%20(2020).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="POSSUÍDOS" tvg-logo="https://is.gd/2jl0Np" type="video" group-title="SUSPENSE",POSSUÍDOS
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/POSSU%C3%8DDOS%201998.mkv
