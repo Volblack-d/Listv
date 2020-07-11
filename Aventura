@@ -14,7 +14,7 @@ https://storage.googleapis.com/volblack-iptv/AVENTURA/300%20A%20Ascens%C3%A3o%20
 #EXTINF:-1 tvg-id="" tvg-name="A FORMA DA ÁGUA" tvg-logo="https://is.gd/2ExxRx" type="video" group-title="AVENTURA",A FORMA DA ÁGUA
 https://storage.googleapis.com/volblack-iptv/AVENTURA/A%20Forma%20da%20%C3%81gua%20(2018).mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="A GRANDE MURALHA" tvg-logo="https://is.gd/cRKL5J" type="video" group-title="AVENTURA",A GRANDE MURALHA
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE MURALHA" tvg-logo="https://is.gd/cRKL5J" type="video" group-title="AÇÃO",A GRANDE MURALHA
 https://storage.googleapis.com/volblack-iptv/AVENTURA/A%20Grande%20Muralha%20(2016).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="A SOMBRA E A ESCURIDÃO" tvg-logo="https://is.gd/Sp2ujS" type="video" group-title="AVENTURA",A SOMBRA E A ESCURIDÃO
@@ -32,7 +32,7 @@ https://storage.googleapis.com/volblack-iptv/AVENTURA/APOCALYPTO%20-%20DUBLADO%2
 #EXTINF:-1 tvg-id="" tvg-name="ARMAGEDDON" tvg-logo="https://is.gd/rHKLEj" type="video" group-title="AVENTURA",ARMAGEDDON
 https://storage.googleapis.com/volblack-iptv/AVENTURA/ARMAGEDDON%201998.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="AVANTAR VERSÃO EXTENDIDA" tvg-logo="https://is.gd/QdV9du" type="video" group-title="AVENTURA",AVANTAR VERSÃO EXTENDIDA
+#EXTINF:-1 tvg-id="" tvg-name="AVANTAR VERSÃO EXTENDIDA" tvg-logo="https://is.gd/QdV9du" type="video" group-title="AVENTURA",AVATAR VERSÃO EXTENDIDA
 https://storage.googleapis.com/volblack/AVENTURA/AVATAR%20-%20VERS%C3%83O%20EXTENDIDA%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="BATMAN VS SUPERMAN" tvg-logo="https://is.gd/AKhLTU" type="video" group-title="AVENTURA",BATMAN VS SUPERMAN
@@ -182,8 +182,14 @@ https://storage.googleapis.com/volblack-iptv/AVENTURA/Maze%20Runner%20A%20Cura%2
 #EXTINF:-1 tvg-id="" tvg-name="MEGATUBALÃO" tvg-logo="https://is.gd/omZnaH" type="video" group-title="AVENTURA",MEGATUBALÃO
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Megatubar%C3%A3o%20(2018).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="MULHER MARAVILHA" tvg-logo="https://is.gd/rP3RjG" type="video" group-title="AVENTURA",MULHER MARAVILHA
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Mulher%20Maravilha%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="NO OLHO DO FURACÃO" tvg-logo="https://is.gd/d6xGQD" type="video" group-title="AVENTURA",NO OLHO DO FURACÃO
 https://storage.googleapis.com/volblack-iptv/AVENTURA/No%20olho%20do%20Furac%C3%A3o%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="NO OLHO DO TORNADO" tvg-logo="https://is.gd/i2YVAt" type="video" group-title="AVENTURA",NO OLHO DO TORNADO
+https://storage.googleapis.com/volblack-iptv/AVENTURA/No%20Olho%20do%20Tornado%20(2014).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="O ASSASSINO O PRIMEIRO ALVO" tvg-logo="https://is.gd/q5nZMs" type="video" group-title="AVENTURA",MAZE RUNNER - O ASSASSINO O PRIMEIRO ALVO
 https://storage.googleapis.com/volblack-iptv/AVENTURA/O%20Assassino%20O%20Primeiro%20Alvo%20(2017).mkv
