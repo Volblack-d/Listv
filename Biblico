@@ -11,8 +11,14 @@ https://storage.googleapis.com/volblack-iptv/BIBLICO/Barrabas%20(2013).mkv
 #EXTINF:-1 tvg-id="" tvg-name="EXUDUS DEUSES E REI" tvg-logo="https://is.gd/iwgLzS" type="video" group-title="BÍBLICO",EXUDUS DEUSES E REI
 https://storage.googleapis.com/volblack/B%C3%8DBLICO/EXUDUS%20-%20DEUSES%20E%20REIS%20-%20DUBLADO%20-%20FULL%20HD%20(1).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="MARIA MADALENA" tvg-logo="https://is.gd/hHjjTF" type="video" group-title="BÍBLICO",MARIA MADALENA
+https://storage.googleapis.com/volblack-iptv/BIBLICO/Maria%20Madalena%20(2018).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="NOÉ (2014)" tvg-logo="https://is.gd/2zOGmI" type="video" group-title="BÍBLICO",NOÉ (2014)
 https://storage.googleapis.com/volblack-iptv/BIBLICO/No%C3%A9%20(2014).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O FILHO DE DEUS" tvg-logo="https://is.gd/4LkvQ4" type="video" group-title="BÍBLICO",O FILHO DE DEUS
+https://storage.googleapis.com/volblack-iptv/BIBLICO/O%20Filho%20de%20Deus%20(2014).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS CLASSICO" tvg-logo="https://is.gd/SL9FzA" type="video" group-title="BÍBLICO",OS DEZ MANDAMENTOS CLASSICO
 https://storage.googleapis.com/volblack/B%C3%8DBLICO/OS%20DEZ%20MANDAMENTOS%20-%20DUBLADO%20-%20FULL%20HD.mkv
