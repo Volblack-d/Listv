@@ -232,108 +232,81 @@ https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/CONGO%20SELVAGEM%20NA
 
 #EXTINF:-1 tvg-id="" tvg-name="11 DE SETEMBRO SEGUNDOS FATAIS" tvg-logo="https://is.gd/rfJUJA" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",11 DE SETEMBRO SEGUNDOS FATAIS
 https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/11%20DE%20SETEMBRO%20-%20SEGUNDOS%20FATAIS%20-%20DUBLADO%20-%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/rfJUJA
 
 #EXTINF:-1 tvg-id="" tvg-name="A HUMANIDADE VISTA DO ESPAÇO" tvg-logo="https://is.gd/8WATzx" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",A HUMANIDADE VISTA DO ESPAÇO,
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/A%20Humanidade%20Vista%20do%20Espa%C3%A7o%20-%20Dublado%20HD%20(720p_30fps_H264-128kbit_AAC).mp4
-#EXTSIZE: big
-#EXTBG:https://is.gd/8WATzx
 
 #EXTINF:-1 tvg-id="" tvg-name="A SEGUNDA GUERRA VISTA DO ESPAÇO" tvg-logo="https://is.gd/BC0WZc" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",A SEGUNDA GUERRA VISTA DO ESPAÇO
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/A%20Segunda%20Guerra%20Mundial%20Vista%20do%20Espa%C3%A7o%20Dublado%20(720p_30fps_H264-128kbit_AAC).mp4
-#EXTSIZE: big
-#EXTBG:https://is.gd/BC0WZc
 
 #EXTINF:-1 tvg-id="" tvg-name="AFRICA EXTRAORDINÁRIA" tvg-logo="https://is.gd/X0bMtm" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",AFRICA EXTRAORDINÁRIA
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/AFRICA%20EXTRAORDIN%C3%81RIA%20-%20DUBLADO%20-%20FULL%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/X0bMtm
 
 #EXTINF:-1 tvg-id="" tvg-name="AMAZÔNIA 2014" tvg-logo="https://is.gd/LB9oes" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",AMAZÔNIA 2014
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/Amazonia.2014.720p.BluRay.x264.DTS-RARBG.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/LB9oes
 
 #EXTINF:-1 tvg-id="" tvg-name="APOLLO 11" tvg-logo="https://is.gd/FwDn73" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",APOLLO 11
 https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/APOLLO%2011%20-%20DUBLADO%20-%20FULL%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/FwDn73
 
 #EXTINF:-1 tvg-id="" tvg-name="AVENTURAS NO FUNDO DO MAR DUB" tvg-logo="https://is.gd/Z6Lj2j" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",AVENTURAS NO FUNDO DO MAR DUB
 https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/AVENTURAS%20NO%20FUNDO%20DO%20MAR.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/Z6Lj2j
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC AMAZÔNIA A ULTIMA FRONTEIRA" tvg-logo="https://is.gd/1CXVRH" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",BBC AMAZÔNIA A ULTIMA FRONTEIRA
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/BBC%20-%20AMAZ%C3%94NIA%20-%20A%20ULTIMA%20FRONTEIRA%20-%20DUBLADO.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/1CXVRH
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC MUNDO SECRETO DOS CRUSTÁCEOS" tvg-logo="https://is.gd/H7wEEJ" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",BBC MUNDO SECRETO DOS CRUSTÁCEOS
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/BBC%20-%20O%20MUNDO%20SECRETO%20DOS%20CRUST%C3%81CEOS%20-%20DUBLADO%20-%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/H7wEEJ
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC PREDADORES PRÉ HISTORICOS" tvg-logo="https://is.gd/3gnfFc" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",BBC PREDADORES PRÉ HISTORICOS
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/BBC%20-%20PREDADORES%20PRE%20-%20HISTORICOS%20-%20AVES%20DO%20TERROR%20-%20DUBLADO.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/3gnfFc
 
 #EXTINF:-1 tvg-id="" tvg-name="CRIATURAS NAS TREVAS" tvg-logo="https://is.gd/iWerUz" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",CRIATURAS NAS TREVAS
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/CRIATURAS%20DAS%20TREVAS%20-%20DUBLADO%20-%20FULL%20HD.mp4
-#EXTSIZE: big
-#EXTBG:https://is.gd/iWerUz
+
+#EXTINF:-1 tvg-id="" tvg-name="CONSPIRAÇÃO NAZISTA" tvg-logo="https://is.gd/kKWcFN" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",CONSPIRAÇÃO NAZISTA
+https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/A%20conspira%C3%A7%C3%A3o%20nazista%20.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="CORANAVÍRUS A ORIGEM" tvg-logo="https://is.gd/fjBCeY" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",CORANAVÍRUS A ORIGEM
+https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/Coronav%C3%ADrus%20A%20Origem%20(2020).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="ELDORADO MENGELE VIVO OU MORTO" tvg-logo="https://is.gd/VbBpPv" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",ELDORADO MENGELE VIVO OU MORTO
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/ELDORADO%20-%20MENGELE%20VIVO%20OU%20MORTO%20-%20NACIONAL%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/VbBpPv
+
+#EXTINF:-1 tvg-id="" tvg-name="GELO EM CHAMAS" tvg-logo="https://is.gd/mZx6jR" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",GELO EM CHAMAS
+https://storage.googleapis.com/volblack-iptv/Documentarios/GELO%20EM%20FOGO/Gelo%20Em%20Chamas%20(2019).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="HUBBLE - TELESCOPIO ESPACIAL" tvg-logo="https://is.gd/ZyjdZY" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",HUBBLE - TELESCOPIO ESPACIAL
 https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/HUBBLE%20-%20DUBLADO%20-%20FULL%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/ZyjdZY
+
+#EXTINF:-1 tvg-id="" tvg-name="INDUSTRIA AMERICANA" tvg-logo="https://is.gd/6O122h" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",INDUSTRIA AMERICANA
+https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/Industria%20Americana%20(2019).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="JESUS 40 DIAS PERDIDOS" tvg-logo="https://is.gd/ctpqln" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",JESUS 40 DIAS PERDIDOS
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/JESUS%20-%2040%20DIAS%20PERDIDOS%20-%20DUBLADO%20-%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/ctpqln
 
 #EXTINF:-1 tvg-id="" tvg-name="O REINO DOS PRIMATAS" tvg-logo="https://is.gd/Lq7hUz" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",O REINO DOS PRIMATAS
 https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/O%20REINO%20DOS%20PRIMATAS%20-%20DUBLADO%20-%20FULL%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/Lq7hUz
 
 #EXTINF:-1 tvg-id="" tvg-name="O UNIVERSO" tvg-logo="https://is.gd/nyRAK3" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",O UNIVERSO
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/O%20UNIVERSO%20-%20DUBLADO%20-%20FULL%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/nyRAK3
 
 #EXTINF:-1 tvg-id="" tvg-name="PANAMÁ O PAIS QUE UNIU O MUNDO" tvg-logo="https://is.gd/SnGMlP" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",PANAMÁ O PAIS QUE UNIU O MUNDO
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/PANAM%C3%81%20-%20O%20PAIS%20QUE%20UNIU%20O%20MUNDO%20-%20DUBLADO%20-%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/SnGMlP
+
+#EXTINF:-1 tvg-id="" tvg-name="PASSARINHEIROS" tvg-logo="https://is.gd/PBHaQQ" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",PASSARINHEIROS
+https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/Passarinheiros%20(2019).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="PREDADORES PERIGOSOS" tvg-logo="https://is.gd/ySmfuk" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",PREDADORES PERIGOSOS
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/PREDADORES%20PERIGOSOS%20-%20DUBLADO%20-%20FULL%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/ySmfuk
 
 #EXTINF:-1 tvg-id="" tvg-name="REDESCOBRINDO A SEGUNDA GUERRA" tvg-logo="https://is.gd/iU7KEl" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",REDESCOBRINDO A SEGUNDA GUERRA
 https://storage.googleapis.com/volblack/DOCUMENT%C3%81RIOS/DOCUMENT%C3%81RIOS%20DIVERSOS/REDESCOBRINDO%20A%20SEGUNDA%20GUERRA%20MUNDIAL.mp4
-#EXTSIZE: big
-#EXTBG:https://is.gd/iU7KEl
 
 #EXTINF:-1 tvg-id="" tvg-name="TERRITORIO SELVAGEM - LEÃO" tvg-logo="https://is.gd/ZvUkMW" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",TERRITORIO SELVAGEM - LEÃO
 https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/BBC%20-%20TERRIT%C3%93RIO%20SELVAGEM%20-%20LE%C3%83O%20-%20DUBLADO%20-%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/ZvUkMW
 
 #EXTINF:-1 tvg-id="" tvg-name="TERRITORIO SELVAGEM - LOBO" tvg-logo="https://is.gd/VzQcvU" type="video" group-title="DOCUMENTÁRIOS DIVERSOS",TERRITORIO SELVAGEM - LOBO
 https://storage.googleapis.com/volblack-iptv/Documentarios/DOCUMENT%C3%81RIOS%20DIVERSOS/BBC%20-%20TERRIT%C3%93RIO%20SELVAGEM%20-%20LE%C3%83O%20-%20DUBLADO%20-%20HD.mkv
-#EXTSIZE: big
-#EXTBG:https://is.gd/VzQcvU
 
 ********************Florida Selvagem********************
 
