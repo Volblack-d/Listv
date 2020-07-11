@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A COISA" tvg-logo="https://is.gd/fzUHpG" type="video" group-title="TERROR",A COISA
+https://storage.googleapis.com/volblack-iptv/TERROR/A%20Coisa%20(2011).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="A FREIRA" tvg-logo="https://is.gd/SUIHeC" type="video" group-title="TERROR",A FREIRA
 https://storage.googleapis.com/volblack-iptv/TERROR/A%20Freira%20(2018).mkv
 
@@ -7,6 +10,9 @@ https://storage.googleapis.com/volblack/TERROR/A%20CASA%20DO%20MEDO%20-%20INCIDE
 
 #EXTINF:-1 tvg-id="" tvg-name="A CAVERNA" tvg-logo="https://is.gd/rYYXBi" type="video" group-title="TERROR",A CAVERNA
 https://storage.googleapis.com/volblack-iptv/TERROR/A%20Caverna%20(2005).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="A MALDIÇÃO DA SEREIA" tvg-logo="https://is.gd/cu6qG1" type="video" group-title="TERROR",A MALDIÇÃO DA SEREIA
+https://storage.googleapis.com/volblack-iptv/TERROR/A%20Maldi%C3%A7%C3%A3o%20Da%20Sereia%20(2019).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="A MORTE DO DEMÔNIO" tvg-logo="https://is.gd/7Vc21s" type="video" group-title="TERROR",A MORTE DO DEMÔNIO
 https://storage.googleapis.com/volblack-iptv/TERROR/A%20MORTE%20DO%20DEM%C3%94NIO%20-%20DUBLADO%20-%20FULL%20HD.mkv
@@ -89,6 +95,9 @@ https://storage.googleapis.com/volblack-iptv/TERROR/Mama%20(2013).mkv
 #EXTINF:-1 tvg-id="" tvg-name="MASSACRE NO TEXAS" tvg-logo="https://is.gd/DbPqLN" type="video" group-title="TERROR",MASSACRE NO TEXAS
 https://storage.googleapis.com/volblack-iptv/TERROR/Massacre%20no%20Texas%20(2017).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="NAS TREVAS" tvg-logo="https://is.gd/GYnBEO" type="video" group-title="TERROR",NAS TREVAS
+https://storage.googleapis.com/volblack-iptv/TERROR/Nas%20Trevas%20(2019).mkv
+
 EXTINF:-1 tvg-id="" tvg-name="O ATAQUE DOS VERMES MALDITOS 6" tvg-logo="https://is.gd/Od3ZPP" type="video" group-title="TERROR",O ATAQUE DOS VERMES MALDITOS 6
 https://storage.googleapis.com/volblack-iptv/TERROR/O%20Ataque%20dos%20Vermes%20Malditos%206%20(2018).mkv
 
@@ -112,6 +121,9 @@ https://storage.googleapis.com/volblack-iptv/TERROR/O%20Enigma%20do%20outro%20Mu
 
 #EXTINF:-1 tvg-id="" tvg-name="O OLHO DO DEMÔNIO" tvg-logo="https://is.gd/LVGS5O" type="video" group-title="TERROR",O OLHO DO DEMÔNIO
 https://storage.googleapis.com/volblack-iptv/TERROR/O%20OLHO%20DO%20DEMONIO%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="O SEGREDO DA FLORESTA" tvg-logo="https://is.gd/OkGPgI" type="video" group-title="TERROR",O SEGREDO DA FLORESTA
+https://storage.googleapis.com/volblack-iptv/TERROR/O%20Segredo%20da%20Floresta%20(2020).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="OLHOS FAMINTOS 1" tvg-logo="https://is.gd/iMvS4A" type="video" group-title="TERROR",OLHOS FAMINTOS 1
 https://storage.googleapis.com/volblack-iptv/TERROR/OLHOS%20FAMINTOS%201%20-%20DUBLADO%20-%20FULL%20HD.mkv
