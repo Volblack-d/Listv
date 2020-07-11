@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="THE OLD GUARD" tvg-logo="https://is.gd/aMKJIC" type="video" group-title="LANÇAMENTOS A",THE OLD GUARD
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/The%20Old%20Guard%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="GREYHOUND (LEG)" tvg-logo="https://is.gd/5AuQKR" type="video" group-title="LANÇAMENTOS A",GREYHOUND (LEG)
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Greyhound%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="FESTIVAL EUROVISION DA CANÇÃO" tvg-logo="https://is.gd/3Hc2Rj" type="video" group-title="LANÇAMENTOS A",FESTIVAL EUROVISION DA CANÇÃO
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Festival%20Eurovision%20da%20Can%C3%A7%C3%A3o%20A%20Saga%20de%20Sigrit%20e%20Lars%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ADÚ" tvg-logo="https://is.gd/Czsq7K" type="video" group-title="LANÇAMENTOS A",ADÚ
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Ad%C3%BA%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="BALA PERDIDA" tvg-logo="https://is.gd/voq7tG" type="video" group-title="LANÇAMENTOS A",BALA PERDIDA
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Bala%20Perdida%20(2020).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="ALGUEM ESPECIAL" tvg-logo="https://is.gd/E430Is" type="video" group-title="LANÇAMENTOS A",ALGUEM ESPECIAL
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Algu%C3%A9m%20Especial%20(2020).mkv
 
@@ -391,3 +406,4 @@ https://storage.googleapis.com/lancamento/Um%20Espi%C3%A3o%20Animal.2019.1080p-d
 
 #EXTINF:-1 tvg-id="" tvg-name="DOIS IRMÃOS UMA JORNADA FANTÁSTICA" tvg-logo="https://is.gd/HHBBK3" type="video" group-title="LANÇAMENTOS A",DOIS IRMÃOS UMA JORNADA FANTÁSTICA
 https://storage.googleapis.com/lancamento/Dois%20Irm%C3%A3os%20Uma%20Jornada%20Fant%C3%A1stica.2020.1080p-dual-por-cinemaqualidade.is.mkv
+
