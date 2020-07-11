@@ -23,14 +23,29 @@ https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Alma%20da%20Festa%20(2
 #EXTINF:-1 tvg-id="" tvg-name="CASAL IMPROVÁVEL" tvg-logo="https://is.gd/enC2B9" type="video" group-title="COMÉDIA",CASAL IMPROVÁVEL
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Casal%20Improv%C3%A1vel%20(2019).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="CEGOS SURDOS E LOUCOS" tvg-logo="https://is.gd/g9zxec" type="video" group-title="COMÉDIA",CEGOS SURDOS E LOUCOS
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Cegos%20Surdos%20e%20Loucos%20(1989).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="DESPERADOS" tvg-logo="https://is.gd/D8pOfk" type="video" group-title="COMÉDIA",DESPERADOS
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Desperados%20(2020).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="DIÁRIO DE UM BANANA CAINDO NA ESTRADA" tvg-logo="https://is.gd/LaomaD" type="video" group-title="COMÉDIA",DIÁRIO DE UM BANANA CAINDO NA ESTRADA
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Di%C3%A1rio%20de%20um%20Banana%20Caindo%20na%20Estrada%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="FÉRIAS FRUSTADAS" tvg-logo="https://is.gd/Ra16Qc" type="video" group-title="COMÉDIA",FÉRIAS FRUSTADAS
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/F%C3%A9rias%20Frustradas%20(2015).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="FORA DE SÉRIE" tvg-logo="https://is.gd/cRMZbS" type="video" group-title="COMÉDIA",FORA DE SÉRIE
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Fora%20de%20S%C3%A9rie%20(2019).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="JOHN ENGLISH 3.0" tvg-logo="https://is.gd/JGdyO3" type="video" group-title="COMÉDIA",JOHN ENGLISH 3.0
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Johnny%20English%203.0%20(2019).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="LARGADAS EM FAMÍLIA" tvg-logo="https://is.gd/O5qohw" type="video" group-title="COMÉDIA",LARGADAS EM FAMÍLIA
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Largadas%20em%20Fam%C3%ADlia%20(2018).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="NEGOCIO DAS ARABIAS" tvg-logo="https://is.gd/Rv8fQl" type="video" group-title="COMÉDIA",NEGOCIO DAS ARABIAS
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Neg%C3%B3cio%20das%20Ar%C3%A1bias%20(2016).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="QUEM É QUE MANDA AQUI?" tvg-logo="https://is.gd/Ndnu4Y" type="video" group-title="COMÉDIA",QUEM É QUE MANDA AQUI?
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Quem%20%C3%89%20Que%20Manda%20Aqui%20(2020).mkv
@@ -44,7 +59,10 @@ https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Os%20Deuses%20Devem%20
 #EXTINF:-1 tvg-id="" tvg-name="PAI EM DOSE DUPLA 2" tvg-logo="https://is.gd/TT7WxV" type="video" group-title="COMÉDIA",PAI EM DOSE DUPLA 2
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Pai%20em%20Dose%20Dupla%202%20(2017).mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="PERFEITA É A MÃE 2" tvg-logo="https://is.gd/4OJeQ6" type="video" group-title="COMÉDIA",PERFEITA É A MÃE 2
+#EXTINF:-1 tvg-id="" tvg-name="PERFEITA É A MÃE" tvg-logo="https://is.gd/SltCQc" type="video" group-title="COMÉDIA",PERFEITA É A MÃE
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Perfeita%20%C3%A9%20a%20M%C3%A3e%20(2016).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="PERFEITA É A MÃE 2" tvg-logo="https://is.gd/Po2pHC" type="video" group-title="COMÉDIA",PERFEITA É A MÃE 2
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Perfeita%20%C3%A9%20a%20M%C3%A3e%202%20(2016).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="SEXY POR ACIDENTE" tvg-logo="https://is.gd/WIFjva" type="video" group-title="COMÉDIA",SEXY POR ACIDENTE
@@ -53,11 +71,23 @@ https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Sexy%20por%20Acidente%
 #EXTINF:-1 tvg-id="" tvg-name="SEIS VEZES CONFUSÃO" tvg-logo="https://is.gd/xzDmr1" type="video" group-title="COMÉDIA",SEIS VEZES CONFUSÃO
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Seis%20Vezes%20Confus%C3%A3o%20(2019).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="TE PEGO NA SAÍDA" tvg-logo="https://is.gd/FFr9jJ" type="video" group-title="COMÉDIA",TE PEGO NA SAÍDA
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Te%20Pego%20na%20Sa%C3%ADda%20(2017).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="TINHA QUE SER ELE" tvg-logo="https://is.gd/hyaQKX" type="video" group-title="COMÉDIA",TINHA QUE SER ELE
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Tinha%20Que%20Ser%20Ele%20(2017).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="TODO O DINHEIRO DO MUNDO" tvg-logo="https://is.gd/qXobnf" type="video" group-title="COMÉDIA",TODO O DINHEIRO DO MUNDO
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Todo%20o%20Dinheiro%20do%20Mundo%20(2017).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="UM CADAVER PARA SOBREVIVER" tvg-logo="https://is.gd/8oJ7BP" type="video" group-title="COMÉDIA",UM CADAVER PARA SOBREVIVER
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Um%20Cad%C3%A1ver%20Para%20Sobreviver%20(2016).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="UM FUNERAL EM FAMÍLIA" tvg-logo="https://is.gd/69DMSG" type="video" group-title="COMÉDIA",UM FUNERAL EM FAMÍLIA
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Um%20Funeral%20em%20Fam%C3%ADlia%20(2019).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="VIAGEM INSÓLITA" tvg-logo="https://is.gd/69DMSG" type="video" group-title="COMÉDIA",VIAGEM INSÓLITA
+https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Viagem%20Ins%C3%B3lita%20(1987).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="VIZINHOS NADAS SECRETOS" tvg-logo="https://is.gd/77saON" type="video" group-title="COMÉDIA",VIZINHOS NADAS SECRETOS
 https://storage.googleapis.com/volblack-iptv/COM%C3%89DIA/Vizinhos%20Nada%20Secretos%20(2016).mkv
