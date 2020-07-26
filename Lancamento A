@@ -1,8 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="OFERENDA A TEMPESTADE" tvg-logo="https://is.gd/Shh2R8" type="video" group-title="LANÇAMENTOS A",OFERENDA A TEMPESTADE
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Oferenda%20A%20Tempestade%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="MILAGRE NA CELA 7" tvg-logo="https://is.gd/8CrMnX" type="video" group-title="LANÇAMENTOS A",MILAGRE NA CELA 7
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Milagre%20na%20Cela%207%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="FANTASMA DE GUERRA (LEG)" tvg-logo="https://is.gd/AOjIOB" type="video" group-title="LANÇAMENTOS A",FANTASMA DE GUERRA (LEG)
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Ghosts%20Of%20War%20(2020).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="MAGNATAS DO CRIME" tvg-logo="https://is.gd/3LglCL" type="video" group-title="LANÇAMENTOS A",MAGNATAS DO CRIME
+https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Magnatas%20do%20Crime%20(2019).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="THE OLD GUARD" tvg-logo="https://is.gd/aMKJIC" type="video" group-title="LANÇAMENTOS A",THE OLD GUARD
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/The%20Old%20Guard%20(2020).mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="GREYHOUND (LEG)" tvg-logo="https://is.gd/5AuQKR" type="video" group-title="LANÇAMENTOS A",GREYHOUND (LEG)
+#EXTINF:-1 tvg-id="" tvg-name="GREYHOUND NA MIRA DO INIMIGO" tvg-logo="https://is.gd/5AuQKR" type="video" group-title="LANÇAMENTOS A",GREYHOUND NA MIRA DO INIMIGO
 https://storage.googleapis.com/volblack-iptv/LAN%C3%87AMENTO%20A/Greyhound%20(2020).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="FESTIVAL EUROVISION DA CANÇÃO" tvg-logo="https://is.gd/3Hc2Rj" type="video" group-title="LANÇAMENTOS A",FESTIVAL EUROVISION DA CANÇÃO
@@ -334,9 +346,6 @@ https://storage.googleapis.com/volblack/Lan%C3%A7amento/O.Escandalo.2020.1080p.B
 
 #EXTINF:-1 tvg-id="" tvg-name="O EXTERMINADOR DO FUTURO DESTINO SOMBRIO" tvg-logo="https://is.gd/y3QJCx" type="video" group-title="LANÇAMENTOS A",O EXTERMINADOR DO FUTURO DESTINO SOMBRIO
 https://storage.googleapis.com/volblack/Lan%C3%A7amento/O%20Exterminador%20do%20Futuro%20Destino%20Sombrio.2019.1080p-dual-por-cinemaqualidade.is.mkv
-
-#EXTINF:-1 tvg-id="" tvg-name="MILAGRE NA CELA 7" tvg-logo="https://is.gd/bPjayS" type="video" group-title="LANÇAMENTOS A",MILAGRE NA CELA 7
-https://storage.googleapis.com/volblack/Lan%C3%A7amento/Milagre.na.Cela.2019.1080p.FULL.WEBRip.x264.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="INSTINTO PREDADOR" tvg-logo="https://is.gd/LvwK8L" type="video" group-title="LANÇAMENTOS A",INSTINTO PREDADOR
 https://storage.googleapis.com/volblack/Lan%C3%A7amento/Instinto%20Predador.2019.1080p-dual-por-cinemaqualidade.is.mkv
