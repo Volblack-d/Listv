@@ -35,6 +35,9 @@ https://storage.googleapis.com/volblack/FAROESTE/BRAVURA%20IND%C3%94MITA%20-%20D
 #EXTINF:-1 tvg-id="" tvg-name="CALIFORNIA" tvg-logo="https://is.gd/Fd30sF" type="video" group-title="FAROESTE",CALIFORNIA
 https://storage.googleapis.com/volblack-iptv/FAROESTE/Calif%C3%B3rnia%20(1947)1.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="CAHILL XERIFE DO OESTE" tvg-logo="https://is.gd/i7fyl8" type="video" group-title="FAROESTE",CAHILL XERIFE DO OESTE
+https://storage.googleapis.com/volblack-iptv/FAROESTE/Cahill%20Xerife%20do%20Oeste%20(1973).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="DANÇA COM LOBOS" tvg-logo="https://is.gd/yCD1r0" type="video" group-title="FAROESTE",BRAVURA INDÔMITA
 https://storage.googleapis.com/volblack/FAROESTE/DAN%C3%87A%20COM%20LOBOS%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
@@ -88,6 +91,12 @@ https://storage.googleapis.com/volblack/FAROESTE/OS%20IMPERDO%C3%81VEIS%20-%20DU
 
 #EXTINF:-1 tvg-id="" tvg-name="OS INDOMAVEIS" tvg-logo="https://is.gd/Jj6YAo" type="video" group-title="FAROESTE",OS INDOMAVEIS
 https://storage.googleapis.com/volblack/FAROESTE/OS%20INDOM%C3%81VEIS%202008%20-%20DUBLADO%20-%20FULL%20HD.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="PISTOLEIROS VINGANÇA SEM PERDÃO" tvg-logo="https://is.gd/0gi1MG" type="video" group-title="FAROESTE",PISTOLEIROS VINGANÇA SEM PERDÃO
+https://storage.googleapis.com/volblack-iptv/FAROESTE/Pistoleiros%20Vingan%C3%A7a%20Sem%20Perd%C3%A3o%20(2018).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="POR UNS DÓLARES A MAIS" tvg-logo="https://is.gd/nasUnb" type="video" group-title="FAROESTE",POR UNS DÓLARES A MAIS
+https://storage.googleapis.com/volblack-iptv/FAROESTE/Por%20Uns%20D%C3%B3lares%20a%20Mais%20(1965).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="RASTRO DE VINGANÇA" tvg-logo="https://is.gd/xZJMOz" type="video" group-title="FAROESTE",RASTRO DE VINGANÇA
 https://storage.googleapis.com/volblack-iptv/FAROESTE/RASTRO%20DE%20VINGAN%C3%87A.mkv
