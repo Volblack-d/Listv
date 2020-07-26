@@ -41,6 +41,9 @@ https://storage.googleapis.com/volblack-iptv/AVENTURA/Batman%20v%20superman%20da
 #EXTINF:-1 tvg-id="" tvg-name="BEN HUR 1959" tvg-logo="https://is.gd/W7oHrV" type="video" group-title="AVENTURA",BEN HUR 1959
 https://storage.googleapis.com/volblack/AVENTURA/BEN%20HUR%20-%201959%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="BELEZA NEGRA" tvg-logo="https://is.gd/F4LWVN" type="video" group-title="AVENTURA",BELEZA NEGRA
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Beleza%20Negra%20(1994).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="BRANCA DE NEVE E O CAÇADOR" tvg-logo="https://is.gd/SwZBeP" type="video" group-title="AVENTURA",BRANCA DE NEVE E O CAÇADOR
 https://storage.googleapis.com/volblack-iptv/AVENTURA/Branca%20de%20Neve%20e%20o%20Ca%C3%A7ador%20(2012).mkv
 
@@ -238,6 +241,9 @@ https://storage.googleapis.com/volblack/AVENTURA/02%20-%20PLANETA%20DOS%20MACACO
 
 #EXTINF:-1 tvg-id="" tvg-name="PLANETA DOS MACACOS GUERRA" tvg-logo="https://is.gd/a48pzr" type="video" group-title="AVENTURA",PLANETA DOS MACACOS GUERRA
 https://storage.googleapis.com/volblack/AVENTURA/03%20-%20PLANETA%20DOS%20MACACOS%20-%20%20GUERRA%20-%20DUBLADO%20-%20FULL%20HD.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="PRENDA-ME SE FOR CAPAZ" tvg-logo="https://is.gd/S51MPT" type="video" group-title="AVENTURA",PRENDA-ME SE FOR CAPAZ
+https://storage.googleapis.com/volblack-iptv/AVENTURA/Prenda-me%20se%20For%20Capaz%20(2002).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="O PREDADOR 1987" tvg-logo="https://is.gd/x3KBJ2" type="video" group-title="AVENTURA",O PREDADOR 1987
 https://storage.googleapis.com/volblack/AVENTURA/O%20PREDADOR%201987%20-%20DUBLADO%20-%20FULL%20HD.mkv
