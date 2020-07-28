@@ -50,6 +50,9 @@ https://storage.googleapis.com/volblack-iptv/SUSPENSE/Celular%20(2016).mkv
 #EXTINF:-1 tvg-id="" tvg-name="CONTAMINAÇÃO" tvg-logo="https://is.gd/OaIoEs" type="video" group-title="SUSPENSE",CONTAMINAÇÃO
 https://storage.googleapis.com/volblack/SUSPENSE/Contamina%C3%A7%C3%A3o%20(2009)%20BluRay%20720p%20Dual%20%C3%81udio.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="CONSTATINE" tvg-logo="https://is.gd/JLmtPp" type="video" group-title="SUSPENSE",CONSTATINE
+https://storage.googleapis.com/volblack-iptv/SUSPENSE/Constantine%20(2005).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="CONTAGIO" tvg-logo="https://is.gd/Xq4SyM" type="video" group-title="SUSPENSE",CONTAGIO
 https://storage.googleapis.com/volblack/SUSPENSE/CONTAGIO%20-%20DUBLADO%20-%20FULL%20HD.mkv
 
@@ -110,6 +113,9 @@ https://storage.googleapis.com/volblack-iptv/SUSPENSE/O%20Culto%20(2017).mkv
 #EXTINF:-1 tvg-id="" tvg-name="O DESAFIO" tvg-logo="https://is.gd/jjUg8c" type="video" group-title="SUSPENSE",O DESAFIO
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/O%20Desafio%20(2020).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="O PADASTRO" tvg-logo="https://is.gd/fnxkd5" type="video" group-title="SUSPENSE",O PADASTRO
+https://storage.googleapis.com/volblack-iptv/SUSPENSE/O%20Padrasto%20(2009).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="O PROTETOR (2016)" tvg-logo="https://is.gd/ZeJbt1" type="video" group-title="SUSPENSE",O PROTETOR (2016)
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Blackway%20(2016).mkv
 
@@ -152,8 +158,14 @@ https://storage.googleapis.com/volblack-iptv/SUSPENSE/Rastros%20de%20um%20Seques
 #EXTINF:-1 tvg-id="" tvg-name="SEM CONTROLE" tvg-logo="https://is.gd/dOTb6G" type="video" group-title="SUSPENSE",SEM CONTROLE
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Sem%20Controle%20(2017).mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="SELVAGEM" tvg-logo="https://is.gd/4Zl5rw" type="video" group-title="SUSPENSE",SELVAGEM
+https://storage.googleapis.com/volblack-iptv/SUSPENSE/Selvagem%20(2018).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="SLENDER MAN PESADELO SEM ROSTO" tvg-logo="https://is.gd/32n0NM" type="video" group-title="SUSPENSE",SLENDER MAN PESADELO SEM ROSTO
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Slender%20Man%20Pesadelo%20Sem%20Rosto%20(2018).mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="SEVEN OS SETE CRIMES CAPITAIS" tvg-logo="https://is.gd/MEnrkM" type="video" group-title="SUSPENSE",SEVEN OS SETE CRIMES CAPITAIS
+https://storage.googleapis.com/volblack-iptv/SUSPENSE/Seven%20Os%20Sete%20Crimes%20Capitais%20(1995).mkv
 
 EXTINF:-1 tvg-id="" tvg-name="VERONICA" tvg-logo="https://is.gd/ZjWDRy" type="video" group-title="SUSPENSE",VERONICA
 https://storage.googleapis.com/volblack-iptv/SUSPENSE/Veronica%20(2017).mkv
